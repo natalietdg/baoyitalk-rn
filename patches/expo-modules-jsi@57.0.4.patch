@@ -1,0 +1,16 @@
+diff --git a/apple/Sources/ExpoModulesJSI/Coding/JavaScriptCodable+Date.swift b/apple/Sources/ExpoModulesJSI/Coding/JavaScriptCodable+Date.swift
+index 1111111..2222222 100644
+--- a/apple/Sources/ExpoModulesJSI/Coding/JavaScriptCodable+Date.swift
++++ b/apple/Sources/ExpoModulesJSI/Coding/JavaScriptCodable+Date.swift
+@@ -50,7 +50,10 @@
+ /// faithful to `new Date(number)`; the `Date`/string branches pass an already-clipped `getTime()` through.
+ @usableFromInline
+ func dateFromMilliseconds(_ milliseconds: Double) throws -> Date {
+-  guard milliseconds.isFinite, abs(milliseconds) <= maxJavaScriptDateMilliseconds else {
++  // `abs(_:)` is ambiguous in this target under Xcode 26.3 / Swift 6.2.4: Swift/C++ interop pulls
++  // the C++ `abs` overload set into scope alongside Swift's generic one. `Double.magnitude` is the
++  // same value with no overload resolution to get wrong.
++  guard milliseconds.isFinite, milliseconds.magnitude <= maxJavaScriptDateMilliseconds else {
+     throw InvalidDateException()
+   }
+   return Date(timeIntervalSince1970: milliseconds.rounded(.towardZero) / 1000.0)

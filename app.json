@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "BaoYiTalk",
+    "slug": "baoyitalk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "bundleIdentifier": "com.natalieleong.baoyitalk",
+      "supportsTablet": true,
+      "appleTeamId": "7Q32NH5DL4",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "BaoYiTalk uses the microphone only to record your own voice for your child. Recordings stay on this device."
+        }
+      ]
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.natalieleong.baoyitalk"
+    }
+  }
+}

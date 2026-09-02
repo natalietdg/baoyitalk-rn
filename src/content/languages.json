@@ -1,0 +1,7 @@
+{
+  "languages": [
+    { "code": "en", "bcp47": "en-US", "chip": "EN",   "name": "English" },
+    { "code": "ms", "bcp47": "ms-MY", "chip": "BM",   "name": "Bahasa Melayu" },
+    { "code": "zh", "bcp47": "zh-CN", "chip": "中文", "name": "Chinese (Mandarin)" }
+  ]
+}

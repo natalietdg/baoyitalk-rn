@@ -1,0 +1,2811 @@
+{
+  "stories": [
+    {
+      "id": "ant-and-grasshopper",
+      "length": "short",
+      "title": {
+        "en": "The Ant and the Grasshopper",
+        "ms": "Semut dan Belalang",
+        "zh": "蚂蚁和蚱蜢",
+        "pinyin": "mǎyǐ hé zhàměng"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🐜",
+          "🦗"
+        ]
+      },
+      "colour": 3,
+      "pages": [
+        {
+          "line": {
+            "en": "All summer the ant carried food home.",
+            "ms": "Sepanjang musim panas, semut bawa makanan balik.",
+            "zh": "整个夏天，蚂蚁把食物搬回家。",
+            "pinyin": "zhěnggè xiàtiān, mǎyǐ bǎ shíwù bān huíjiā."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐜",
+              "🌾"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "The grasshopper sang and played.",
+            "ms": "Belalang menyanyi dan bermain.",
+            "zh": "蚱蜢唱歌又玩耍。",
+            "pinyin": "zhàměng chànggē yòu wán shuǎ."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦗"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "Then the rain came. It was cold.",
+            "ms": "Kemudian hujan turun. Sejuk.",
+            "zh": "后来下雨了，好冷。",
+            "pinyin": "hòulái xià yǔ le, hǎo lěng."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🌧️"
+            ],
+            "accent": "splash"
+          }
+        },
+        {
+          "line": {
+            "en": "The grasshopper had no food.",
+            "ms": "Belalang tiada makanan.",
+            "zh": "蚱蜢没有食物。",
+            "pinyin": "zhàměng méi yǒu shíwù."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦗"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "The ant shared with him. Now they both sing.",
+            "ms": "Semut kongsi dengan dia. Sekarang dua-dua menyanyi.",
+            "zh": "蚂蚁分给它吃。现在它们一起唱歌。",
+            "pinyin": "mǎyǐ fēn gěi tā chī. xiànzài tāmen yìqǐ chànggē."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐜",
+              "🦗"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boy-who-cried-wolf",
+      "length": "short",
+      "title": {
+        "en": "The Boy Who Cried Wolf",
+        "ms": "Budak yang Menipu",
+        "zh": "爱说谎的小男孩",
+        "pinyin": "ài shuō huǎng de xiǎo nán hái"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "👦",
+          "🐺"
+        ]
+      },
+      "colour": 5,
+      "pages": [
+        {
+          "line": {
+            "en": "A boy looked after the sheep.",
+            "ms": "Seorang budak jaga biri-biri.",
+            "zh": "一个小男孩看羊。",
+            "pinyin": "yí gè xiǎo nán hái kàn yáng."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👦",
+              "🐑"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "For fun he shouted, \"A wolf! A wolf!\"",
+            "ms": "Untuk berseronok dia jerit, \"Serigala! Serigala!\"",
+            "zh": "他开玩笑喊：“狼来了！狼来了！”",
+            "pinyin": "tā kāi wán xiào hǎn:\"láng lái le! láng lái le!\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👦"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "Everyone ran to help. There was no wolf.",
+            "ms": "Semua datang tolong. Tiada serigala.",
+            "zh": "大家跑来帮忙。没有狼。",
+            "pinyin": "dà jiā pǎo lái bāng máng. méi yǒu láng."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "👦"
+            ],
+            "count": 2,
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "Next time nobody came.",
+            "ms": "Kali kedua, tiada siapa datang.",
+            "zh": "第二次，没有人来了。",
+            "pinyin": "dì èr cì, méi yǒu rén lái le."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👦"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "So he told the truth after that. Words must be true.",
+            "ms": "Selepas itu dia cakap benar. Kata-kata kena betul.",
+            "zh": "后来他说真话了。说话要老实。",
+            "pinyin": "hòulái tā shuō zhēn huà le. shuō huà yào lǎo shí."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👦",
+              "🐑"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crow-and-pitcher",
+      "length": "short",
+      "title": {
+        "en": "The Crow and the Pitcher",
+        "ms": "Burung Gagak dan Kendi",
+        "zh": "乌鸦和水壶",
+        "pinyin": "wūyā hé shuǐ hú"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🐦",
+          "🏺"
+        ],
+        "accent": "waves"
+      },
+      "colour": 2,
+      "pages": [
+        {
+          "line": {
+            "en": "A thirsty crow found a pitcher.",
+            "ms": "Burung gagak yang dahaga jumpa satu kendi.",
+            "zh": "一只渴了的乌鸦找到一个水壶。",
+            "pinyin": "yì zhī kě le de wūyā zhǎo dào yí gè shuǐ hú."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐦",
+              "🏺"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The water was too far down.",
+            "ms": "Air itu terlalu dalam.",
+            "zh": "水在很下面，喝不到。",
+            "pinyin": "shuǐ zài hěn xià miàn, hē bú dào."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🏺"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "The crow dropped in a stone. Plop!",
+            "ms": "Burung gagak masukkan batu. Plop!",
+            "zh": "乌鸦丢进一颗石头。咚！",
+            "pinyin": "wūyā diū jìn yì kē shítou. dōng!"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐦",
+              "🪨"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "One stone, two stones, three stones.",
+            "ms": "Satu batu, dua batu, tiga batu.",
+            "zh": "一颗、两颗、三颗石头。",
+            "pinyin": "yì kē, liǎng kē, sān kē shítou."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🪨"
+            ],
+            "count": 3,
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "The water came up. The crow drank. Clever crow!",
+            "ms": "Air naik. Burung gagak minum. Bijaknya!",
+            "zh": "水升上来了。乌鸦喝到水。真聪明！",
+            "pinyin": "shuǐ shēng shàng lái le. wūyā hē dào shuǐ. zhēn cōng míng!"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐦",
+              "💧"
+            ],
+            "accent": "sparkle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fox-and-grapes",
+      "length": "short",
+      "title": {
+        "en": "The Fox and the Grapes",
+        "ms": "Sang Rubah dan Anggur",
+        "zh": "狐狸和葡萄",
+        "pinyin": "hú lí hé pútao"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🦊",
+          "🍇"
+        ]
+      },
+      "colour": 1,
+      "pages": [
+        {
+          "line": {
+            "en": "A fox saw sweet grapes up high.",
+            "ms": "Sang rubah nampak anggur manis di atas.",
+            "zh": "狐狸看见高高的甜葡萄。",
+            "pinyin": "hú lí kàn jiàn gāo gāo de tián pútao."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦊",
+              "🍇"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "He jumped. He could not reach.",
+            "ms": "Dia lompat. Tak sampai.",
+            "zh": "它跳一跳，够不到。",
+            "pinyin": "tā tiào yí tiào, gòu bú dào."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦊"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "He jumped again and again.",
+            "ms": "Dia lompat lagi dan lagi.",
+            "zh": "它跳呀跳，还是够不到。",
+            "pinyin": "tā tiào ya tiào, hái shì gòu bú dào."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦊"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "At last he walked away. \"Never mind,\" he said.",
+            "ms": "Akhirnya dia pergi. \"Tak apalah,\" katanya.",
+            "zh": "最后它走开了。它说：“算了。”",
+            "pinyin": "zuì hòu tā zǒu kāi le. tā shuō:\"suàn le.\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦊"
+            ],
+            "accent": "steps"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lion-and-mouse",
+      "length": "short",
+      "title": {
+        "en": "The Lion and the Mouse",
+        "ms": "Singa dan Tikus",
+        "zh": "狮子和老鼠",
+        "pinyin": "shīzi hé lǎoshǔ"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🦁",
+          "🐭"
+        ],
+        "accent": "heart"
+      },
+      "colour": 0,
+      "pages": [
+        {
+          "line": {
+            "en": "A little mouse woke a big lion.",
+            "ms": "Seekor tikus kecil bangunkan singa besar.",
+            "zh": "小老鼠吵醒了大狮子。",
+            "pinyin": "xiǎo lǎoshǔ chǎo xǐng le dà shīzi."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐭",
+              "🦁"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"Please let me go,\" said the mouse.",
+            "ms": "\"Tolong lepaskan saya,\" kata tikus.",
+            "zh": "小老鼠说：“请放我走。”",
+            "pinyin": "xiǎo lǎoshǔ shuō:\"qǐng fàng wǒ zǒu.\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐭"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "The lion smiled and let him go.",
+            "ms": "Singa tersenyum dan lepaskan dia.",
+            "zh": "狮子笑了，放它走了。",
+            "pinyin": "shīzi xiào le, fàng tā zǒu le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦁",
+              "🐭"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "Later the lion was stuck in a rope.",
+            "ms": "Kemudian singa tersangkut dalam tali.",
+            "zh": "后来狮子被绳子缠住了。",
+            "pinyin": "hòulái shīzi bèi shéng zi chán zhù le."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦁"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "The little mouse chewed him free. Small friends help too!",
+            "ms": "Tikus kecil gigit tali itu. Kawan kecil pun boleh tolong!",
+            "zh": "小老鼠咬断绳子。小朋友也能帮忙！",
+            "pinyin": "xiǎo lǎoshǔ yǎo duàn shéng zi. xiǎo péngyou yě néng bāng máng!"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐭",
+              "🦁"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wind-and-sun",
+      "length": "short",
+      "title": {
+        "en": "The Wind and the Sun",
+        "ms": "Angin dan Matahari",
+        "zh": "风和太阳",
+        "pinyin": "fēng hé tàiyáng"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "💨",
+          "🌞"
+        ],
+        "accent": "sparkle"
+      },
+      "colour": 4,
+      "pages": [
+        {
+          "line": {
+            "en": "The wind and the sun had a game.",
+            "ms": "Angin dan matahari bermain satu permainan.",
+            "zh": "风和太阳玩一个游戏。",
+            "pinyin": "fēng hé tàiyáng wán yí gè yóu xì."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "💨",
+              "🌞"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"Who can take off that hat?\"",
+            "ms": "\"Siapa boleh tanggalkan topi itu?\"",
+            "zh": "“谁能让帽子掉下来？”",
+            "pinyin": "\"shuí néng ràng màozi diào xià lái?\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🧢"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "The wind blew hard. The hat stayed on.",
+            "ms": "Angin tiup kuat. Topi masih ada.",
+            "zh": "风用力吹。帽子还在。",
+            "pinyin": "fēng yòng lì chuī. màozi hái zài."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "💨",
+              "🧢"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "The sun shone warm and soft.",
+            "ms": "Matahari bersinar hangat dan lembut.",
+            "zh": "太阳暖暖地照着。",
+            "pinyin": "tàiyáng nuǎn nuǎn dì zhào zhe."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🌞"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "The hat came off by itself. Gentle wins!",
+            "ms": "Topi tanggal sendiri. Lembut yang menang!",
+            "zh": "帽子自己掉了。温和赢了！",
+            "pinyin": "màozi zì jǐ diào le. wēn hé yíng le!"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🌞",
+              "🧢"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gingerbread-man",
+      "length": "medium",
+      "title": {
+        "en": "The Gingerbread Man",
+        "ms": "Biskut Halia",
+        "zh": "姜饼人",
+        "pinyin": "jiāng bǐng rén"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🍪",
+          "🏃"
+        ],
+        "accent": "motion"
+      },
+      "colour": 2,
+      "pages": [
+        {
+          "line": {
+            "en": "Grandma baked a gingerbread man.",
+            "ms": "Nenek bakar seorang biskut halia.",
+            "zh": "奶奶烤了一个姜饼人。",
+            "pinyin": "nǎinai kǎo le yí gè jiāng bǐng rén."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👵",
+              "🍪"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Out of the oven he jumped!",
+            "ms": "Dia lompat keluar dari oven!",
+            "zh": "他从炉子里跳出来！",
+            "pinyin": "tā cóng lú zi lǐ tiào chū lái!"
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🍪"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Run, run, catch me if you can!\"",
+            "ms": "\"Lari, lari, tangkap saya kalau boleh!\"",
+            "zh": "“跑呀跑，来追我呀！”",
+            "pinyin": "\"pǎo ya pǎo, lái zhuī wǒ ya!\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🍪"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "The cat ran after him.",
+            "ms": "Kucing lari mengejar dia.",
+            "zh": "猫追着他跑。",
+            "pinyin": "māo zhuī zhe tā pǎo."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐱",
+              "🍪"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "The dog ran after him too.",
+            "ms": "Anjing pun lari mengejar dia.",
+            "zh": "狗狗也追着他跑。",
+            "pinyin": "gǒugou yě zhuī zhe tā pǎo."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐶",
+              "🍪"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "The cow ran after him as well.",
+            "ms": "Lembu pun lari mengejar dia.",
+            "zh": "牛也追着他跑。",
+            "pinyin": "niú yě zhuī zhe tā pǎo."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐮",
+              "🍪"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "He came to a wide river.",
+            "ms": "Dia sampai ke sungai yang lebar.",
+            "zh": "他来到一条宽宽的河。",
+            "pinyin": "tā lái dào yì tiáo kuān kuān de hé."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🍪",
+              "🌊"
+            ],
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "A kind duck carried him across.",
+            "ms": "Seekor itik yang baik bawa dia ke seberang.",
+            "zh": "一只好心的鸭子带他过河。",
+            "pinyin": "yì zhī hǎo xīn de yāzi dài tā guò hé."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦆",
+              "🍪"
+            ],
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "He ran all the way home to Grandma. Safe!",
+            "ms": "Dia lari terus balik kepada nenek. Selamat!",
+            "zh": "他一路跑回奶奶家。安全了！",
+            "pinyin": "tā yí lù pǎo huí nǎinai jiā. ān quán le!"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🍪",
+              "👵"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "goldilocks",
+      "length": "medium",
+      "title": {
+        "en": "Goldilocks and the Three Bears",
+        "ms": "Si Rambut Emas dan Tiga Beruang",
+        "zh": "金发女孩和三只熊",
+        "pinyin": "jīn fā nǚ hái hé sān zhī xióng"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "👧",
+          "🐻"
+        ]
+      },
+      "colour": 1,
+      "pages": [
+        {
+          "line": {
+            "en": "A girl with golden hair walked in the woods.",
+            "ms": "Seorang budak berambut emas jalan di dalam hutan.",
+            "zh": "一个金头发的女孩走进树林。",
+            "pinyin": "yí gè jīn tóufa de nǚ hái zǒu jìn shù lín."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🌳"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "She found a little house.",
+            "ms": "Dia jumpa sebuah rumah kecil.",
+            "zh": "她看见一间小房子。",
+            "pinyin": "tā kàn jiàn yì jiān xiǎo fángzi."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🏠"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Inside were three bowls of porridge.",
+            "ms": "Di dalam ada tiga mangkuk bubur.",
+            "zh": "里面有三碗粥。",
+            "pinyin": "lǐ miàn yǒu sān wǎn zhōu."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🥣"
+            ],
+            "count": 3,
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "The big one was too hot.",
+            "ms": "Yang besar terlalu panas.",
+            "zh": "大的太烫了。",
+            "pinyin": "dà de tài tàng le."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🥣"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "The small one was just right. She ate it all.",
+            "ms": "Yang kecil sedap betul. Dia makan semua.",
+            "zh": "小的刚刚好。她吃光了。",
+            "pinyin": "xiǎo de gāng gāng hǎo. tā chī guāng le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🥣"
+            ],
+            "accent": "heart"
+          }
+        },
+        {
+          "line": {
+            "en": "Then she found three beds.",
+            "ms": "Kemudian dia jumpa tiga katil.",
+            "zh": "然后她看见三张床。",
+            "pinyin": "rán hòu tā kàn jiàn sān zhāng chuáng."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🛏️"
+            ],
+            "count": 3,
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "She fell asleep on the smallest bed.",
+            "ms": "Dia tertidur di katil paling kecil.",
+            "zh": "她在最小的床上睡着了。",
+            "pinyin": "tā zài zuì xiǎo de chuáng shàng shuì zháo le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🛏️"
+            ],
+            "accent": "zzz"
+          }
+        },
+        {
+          "line": {
+            "en": "The three bears came home.",
+            "ms": "Tiga beruang balik rumah.",
+            "zh": "三只熊回家了。",
+            "pinyin": "sān zhī xióng huíjiā le."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🐻"
+            ],
+            "count": 3,
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Sorry!\" she said, and ran home to her mama.",
+            "ms": "\"Maaf!\" katanya, dan lari balik kepada mamanya.",
+            "zh": "她说：“对不起！”就跑回家找妈妈。",
+            "pinyin": "tā shuō:\"duì bù qǐ!\"jiù pǎo huíjiā zhǎo māma."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "👩"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kancil-and-crocodiles",
+      "length": "medium",
+      "title": {
+        "en": "Sang Kancil and the Crocodiles",
+        "ms": "Sang Kancil dan Sang Buaya",
+        "zh": "小鼠鹿和鳄鱼",
+        "pinyin": "xiǎo shǔ lù hé èyú"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🦌",
+          "🐊"
+        ],
+        "accent": "waves"
+      },
+      "colour": 3,
+      "pages": [
+        {
+          "line": {
+            "en": "Sang Kancil was hungry.",
+            "ms": "Sang Kancil sedang lapar.",
+            "zh": "小鼠鹿肚子饿了。",
+            "pinyin": "xiǎo shǔ lù dù zi è le."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Across the river grew sweet, sweet fruit.",
+            "ms": "Di seberang sungai ada buah-buahan yang manis.",
+            "zh": "河的对岸有很甜的果子。",
+            "pinyin": "hé de duì àn yǒu hěn tián de guǒ zi."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🍎",
+              "🍌"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "But the river was full of crocodiles!",
+            "ms": "Tapi sungai itu penuh dengan buaya!",
+            "zh": "可是河里有好多鳄鱼！",
+            "pinyin": "kěshì hé lǐ yǒu hǎo duō èyú!"
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🐊"
+            ],
+            "count": 3,
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "Sang Kancil thought of a clever plan.",
+            "ms": "Sang Kancil terfikir satu akal yang bijak.",
+            "zh": "小鼠鹿想到一个好办法。",
+            "pinyin": "xiǎo shǔ lù xiǎng dào yí gè hǎo bàn fǎ."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Crocodiles! The King told me to count you all,\" he called.",
+            "ms": "\"Buaya semua! Raja suruh saya kira kamu,\" katanya.",
+            "zh": "它大声说：“鳄鱼们，国王叫我来数一数你们！”",
+            "pinyin": "tā dà shēng shuō:\"èyú men, guó wáng jiào wǒ lái shǔ yi shǔ nǐmen!\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🐊"
+            ],
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "The crocodiles lined up in a long, long row.",
+            "ms": "Buaya-buaya berbaris panjang di dalam sungai.",
+            "zh": "鳄鱼们排成长长的一排。",
+            "pinyin": "èyú men pái chéng zhǎng zhǎng de yì pái."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🐊"
+            ],
+            "count": 3,
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "Sang Kancil stepped on their backs. One, two, three…",
+            "ms": "Sang Kancil pijak belakang mereka. Satu, dua, tiga…",
+            "zh": "小鼠鹿踩在它们的背上。一、二、三……",
+            "pinyin": "xiǎo shǔ lù cǎi zài tāmen de bèi shàng. yī, èr, sān……"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🐊"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "Hop, hop, hop — all the way across!",
+            "ms": "Lompat, lompat, lompat — sampai ke seberang!",
+            "zh": "跳、跳、跳——跳到对岸了！",
+            "pinyin": "tiào, tiào, tiào—— tiào dào duì àn le!"
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "Sang Kancil ate the sweet fruit and said thank you.",
+            "ms": "Sang Kancil makan buah manis itu dan cakap terima kasih.",
+            "zh": "小鼠鹿吃到甜果子，还说了谢谢。",
+            "pinyin": "xiǎo shǔ lù chī dào tián guǒ zi, hái shuō le xièxie."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🍌"
+            ],
+            "accent": "heart"
+          }
+        },
+        {
+          "line": {
+            "en": "Clever Sang Kancil! A clever head beats a big body.",
+            "ms": "Bijaknya Sang Kancil! Akal lebih berguna daripada badan besar.",
+            "zh": "聪明的小鼠鹿！聪明比力气更有用。",
+            "pinyin": "cōng míng de xiǎo shǔ lù! cōng míng bǐ lìqi gèng yǒu yòng."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ],
+            "accent": "sparkle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kancil-and-elephant",
+      "length": "medium",
+      "title": {
+        "en": "Sang Kancil and the Elephant",
+        "ms": "Sang Kancil dan Gajah",
+        "zh": "小鼠鹿和大象",
+        "pinyin": "xiǎo shǔ lù hé dàxiàng"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🦌",
+          "🐘"
+        ]
+      },
+      "colour": 4,
+      "pages": [
+        {
+          "line": {
+            "en": "Sang Kancil was very small.",
+            "ms": "Sang Kancil sangat kecil.",
+            "zh": "小鼠鹿很小。",
+            "pinyin": "xiǎo shǔ lù hěn xiǎo."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "A big elephant blocked the path.",
+            "ms": "Seekor gajah besar halang jalan.",
+            "zh": "一只大象挡住了路。",
+            "pinyin": "yì zhī dàxiàng dǎng zhù le lù."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🐘"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"Move, please,\" said Sang Kancil.",
+            "ms": "\"Tolong beralih,\" kata Sang Kancil.",
+            "zh": "小鼠鹿说：“请让一让。”",
+            "pinyin": "xiǎo shǔ lù shuō:\"qǐng ràng yí ràng.\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "\"I am big. You move,\" said the elephant.",
+            "ms": "\"Saya besar. Awak beralih,\" kata gajah.",
+            "zh": "大象说：“我大，你让。”",
+            "pinyin": "dàxiàng shuō:\"wǒ dà, nǐ ràng.\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐘"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "Sang Kancil had a clever idea.",
+            "ms": "Sang Kancil ada satu akal yang bijak.",
+            "zh": "小鼠鹿想到一个好办法。",
+            "pinyin": "xiǎo shǔ lù xiǎng dào yí gè hǎo bàn fǎ."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "\"The mud ahead is very deep,\" he said.",
+            "ms": "\"Tanah di depan sangat dalam,\" katanya.",
+            "zh": "它说：“前面的地很软很深。”",
+            "pinyin": "tā shuō:\"qián miàn de dì hěn ruǎn hěn shēn.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🐘"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The elephant walked around it carefully.",
+            "ms": "Gajah jalan mengelilinginya dengan hati-hati.",
+            "zh": "大象小心地绕过去了。",
+            "pinyin": "dàxiàng xiǎoxīn dì rào guò qù le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐘",
+              "🌳"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "Now the path was clear. \"Thank you, friend!\"",
+            "ms": "Sekarang jalan sudah lapang. \"Terima kasih, kawan!\"",
+            "zh": "路通了。“谢谢你，朋友！”",
+            "pinyin": "lù tōng le.\"xièxie nǐ, péngyou!\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🐘"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kancil-and-tiger",
+      "length": "medium",
+      "title": {
+        "en": "Sang Kancil and the Tiger",
+        "ms": "Sang Kancil dan Sang Harimau",
+        "zh": "小鼠鹿和老虎",
+        "pinyin": "xiǎo shǔ lù hé lǎohǔ"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🦌",
+          "🐯"
+        ],
+        "accent": "sparkle"
+      },
+      "colour": 0,
+      "pages": [
+        {
+          "line": {
+            "en": "Sang Kancil met a big tiger in the forest.",
+            "ms": "Sang Kancil jumpa seekor harimau besar di dalam hutan.",
+            "zh": "小鼠鹿在森林里遇到一只大老虎。",
+            "pinyin": "xiǎo shǔ lù zài sēnlín lǐ yù dào yì zhī dà lǎohǔ."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🐯"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"I am very hungry,\" growled the tiger.",
+            "ms": "\"Aku sangat lapar,\" kata harimau itu.",
+            "zh": "老虎说：“我好饿啊。”",
+            "pinyin": "lǎohǔ shuō:\"wǒ hǎo è a.\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐯"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "Sang Kancil was small. He had to be clever.",
+            "ms": "Sang Kancil kecil saja. Dia kena guna akal.",
+            "zh": "小鼠鹿很小，它要用聪明的办法。",
+            "pinyin": "xiǎo shǔ lù hěn xiǎo, tā yào yòng cōng míng de bàn fǎ."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Come, I will show you the king of the forest,\" he said.",
+            "ms": "\"Mari, saya tunjuk raja hutan,\" katanya.",
+            "zh": "它说：“来，我带你去看森林之王。”",
+            "pinyin": "tā shuō:\"lái, wǒ dài nǐ qù kàn sēnlín zhī wáng.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "🐯"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "He led the tiger to a quiet pool of water.",
+            "ms": "Dia bawa harimau ke sebuah kolam yang tenang.",
+            "zh": "它带老虎来到一个安静的水池。",
+            "pinyin": "tā dài lǎohǔ lái dào yí gè ān jìng de shuǐ chí."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🌳",
+              "💧"
+            ],
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Look inside,\" said Sang Kancil.",
+            "ms": "\"Tengok dalam air,\" kata Sang Kancil.",
+            "zh": "小鼠鹿说：“看看水里面。”",
+            "pinyin": "xiǎo shǔ lù shuō:\"kàn kàn shuǐ lǐ miàn.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦌",
+              "💧"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The tiger saw another big tiger looking back at him.",
+            "ms": "Harimau nampak seekor harimau besar memandangnya.",
+            "zh": "老虎看见另一只大老虎在看它。",
+            "pinyin": "lǎohǔ kàn jiàn lìng yì zhī dà lǎohǔ zài kàn tā."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🐯"
+            ],
+            "count": 2,
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "He roared. The tiger in the water roared too!",
+            "ms": "Dia mengaum. Harimau di dalam air pun mengaum!",
+            "zh": "它大声吼。水里的老虎也吼！",
+            "pinyin": "tā dà shēng hǒu. shuǐ lǐ de lǎohǔ yě hǒu!"
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🐯"
+            ],
+            "count": 2,
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "The tiger ran away, all the way home.",
+            "ms": "Harimau itu lari jauh, terus balik rumah.",
+            "zh": "老虎吓跑了，一直跑回家。",
+            "pinyin": "lǎohǔ xià pǎo le, yìzhí pǎo huíjiā."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐯"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "Sang Kancil smiled. A clever head beats a loud roar.",
+            "ms": "Sang Kancil tersenyum. Akal lebih berguna daripada auman yang kuat.",
+            "zh": "小鼠鹿笑了。聪明比大声更有用。",
+            "pinyin": "xiǎo shǔ lù xiào le. cōng míng bǐ dà shēng gèng yǒu yòng."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦌"
+            ],
+            "accent": "sparkle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "little-red-riding-hood",
+      "length": "medium",
+      "title": {
+        "en": "Little Red Riding Hood",
+        "ms": "Si Tudung Merah",
+        "zh": "小红帽",
+        "pinyin": "xiǎo hóng mào"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "👧",
+          "🧺"
+        ],
+        "accent": "heart"
+      },
+      "colour": 0,
+      "pages": [
+        {
+          "line": {
+            "en": "A little girl wore a red hood.",
+            "ms": "Seorang budak perempuan pakai tudung merah.",
+            "zh": "小女孩戴着红帽子。",
+            "pinyin": "xiǎo nǚ hái dài zhe hóng màozi."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👧"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Mama gave her a basket of bread.",
+            "ms": "Mama beri dia bakul roti.",
+            "zh": "妈妈给她一篮面包。",
+            "pinyin": "māma gěi tā yì lán miànbāo."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👩",
+              "🧺"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"Take this to Grandma,\" said Mama.",
+            "ms": "\"Bawa ini kepada nenek,\" kata mama.",
+            "zh": "妈妈说：“带去给奶奶。”",
+            "pinyin": "māma shuō:\"dài qù gěi nǎinai.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👩",
+              "👵"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "She walked through the trees.",
+            "ms": "Dia jalan melalui pokok-pokok.",
+            "zh": "她走过树林。",
+            "pinyin": "tā zǒu guò shù lín."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🌳"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "A wolf watched her from behind a tree.",
+            "ms": "Seekor serigala perhatikan dia dari belakang pokok.",
+            "zh": "一只狼在树后看着她。",
+            "pinyin": "yì zhī láng zài shù hòu kàn zhe tā."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🌳",
+              "🐺"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The wolf ran to Grandma's house first.",
+            "ms": "Serigala lari ke rumah nenek dulu.",
+            "zh": "狼先跑到奶奶家。",
+            "pinyin": "láng xiān pǎo dào nǎinai jiā."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐺",
+              "🏠"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "Grandma heard him and hid in the cupboard.",
+            "ms": "Nenek dengar dia dan sembunyi dalam almari.",
+            "zh": "奶奶听见了，躲进柜子里。",
+            "pinyin": "nǎinai tīng jiàn le, duǒ jìn guìzi lǐ."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👵",
+              "🚪"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The girl came in. \"You are not Grandma!\"",
+            "ms": "Budak itu masuk. \"Awak bukan nenek!\"",
+            "zh": "女孩进来了。“你不是奶奶！”",
+            "pinyin": "nǚ hái jìn lái le.\"nǐ bú shì nǎinai!\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🐺"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "She shouted loudly. The wolf ran away!",
+            "ms": "Dia jerit kuat. Serigala lari!",
+            "zh": "她大声喊。狼跑掉了！",
+            "pinyin": "tā dà shēng hǎn. láng pǎo diào le!"
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐺"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "Grandma came out. They ate the bread together.",
+            "ms": "Nenek keluar. Mereka makan roti bersama.",
+            "zh": "奶奶出来了。她们一起吃面包。",
+            "pinyin": "nǎinai chū lái le. tāmen yìqǐ chī miànbāo."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👵",
+              "🍞"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "three-little-sheep",
+      "length": "medium",
+      "title": {
+        "en": "The Three Little Sheep",
+        "ms": "Tiga Anak Biri-biri",
+        "zh": "三只小绵羊",
+        "pinyin": "sān zhī xiǎo miányáng"
+      },
+      "cover": {
+        "layout": "repeated",
+        "arts": [
+          "🐑"
+        ],
+        "count": 3,
+        "accent": "heart"
+      },
+      "colour": 1,
+      "pages": [
+        {
+          "line": {
+            "en": "Three little sheep went out to build houses.",
+            "ms": "Tiga anak biri-biri keluar nak bina rumah.",
+            "zh": "三只小绵羊出去盖房子。",
+            "pinyin": "sān zhī xiǎo miányáng chū qù gài fángzi."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🐑"
+            ],
+            "count": 3
+          }
+        },
+        {
+          "line": {
+            "en": "The first sheep built a house of straw.",
+            "ms": "Anak biri-biri pertama bina rumah jerami.",
+            "zh": "第一只小绵羊盖了草房子。",
+            "pinyin": "dì yì zhī xiǎo miányáng gài le cǎo fángzi."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐑",
+              "🛖"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The second sheep built a house of sticks.",
+            "ms": "Anak biri-biri kedua bina rumah kayu.",
+            "zh": "第二只小绵羊盖了木房子。",
+            "pinyin": "dì èr zhī xiǎo miányáng gài le mù fángzi."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐑",
+              "🏚️"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The third sheep built a strong house of bricks.",
+            "ms": "Anak biri-biri ketiga bina rumah batu yang kuat.",
+            "zh": "第三只小绵羊盖了坚固的砖房子。",
+            "pinyin": "dì sān zhī xiǎo miányáng gài le jiān gù de zhuān fángzi."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐑",
+              "🏠"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "A big wolf came along. He huffed and he puffed.",
+            "ms": "Seekor serigala besar datang. Dia hembus kuat-kuat.",
+            "zh": "大灰狼来了。它用力吹呀吹。",
+            "pinyin": "dà huī láng lái le. tā yòng lì chuī ya chuī."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐺"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "Whoosh! The straw house blew away!",
+            "ms": "Wuuush! Rumah jerami itu terbang!",
+            "zh": "呼——草房子被吹倒了！",
+            "pinyin": "hū—— cǎo fángzi bèi chuī dào le!"
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🛖"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "Whoosh! The stick house blew away too!",
+            "ms": "Wuuush! Rumah kayu pun terbang juga!",
+            "zh": "呼——木房子也被吹倒了！",
+            "pinyin": "hū—— mù fángzi yě bèi chuī dào le!"
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🏚️"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "The three sheep ran into the brick house.",
+            "ms": "Tiga anak biri-biri masuk ke dalam rumah batu.",
+            "zh": "三只小绵羊跑进砖房子里。",
+            "pinyin": "sān zhī xiǎo miányáng pǎo jìn zhuān fángzi lǐ."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐑",
+              "🏠"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "The wolf huffed and puffed, but the house did not move.",
+            "ms": "Serigala hembus dan hembus, tapi rumah itu tak bergerak.",
+            "zh": "大灰狼吹呀吹，房子一点也不动。",
+            "pinyin": "dà huī láng chuī ya chuī, fángzi yìdiǎn yě bú dòng."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐺",
+              "🏠"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "So the wolf went home. The three sheep were safe.",
+            "ms": "Serigala balik rumah. Tiga anak biri-biri semua selamat.",
+            "zh": "大灰狼只好回家了。三只小绵羊都很安全。",
+            "pinyin": "dà huī láng zhī hǎo huíjiā le. sān zhī xiǎo miányáng dōu hěn ān quán."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🏠",
+              "🐑"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tortoise-and-hare",
+      "length": "medium",
+      "title": {
+        "en": "The Tortoise and the Hare",
+        "ms": "Kura-kura dan Arnab",
+        "zh": "乌龟和兔子",
+        "pinyin": "wūguī hé tùzi"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🐢",
+          "🐰"
+        ],
+        "accent": "sparkle"
+      },
+      "colour": 2,
+      "pages": [
+        {
+          "line": {
+            "en": "The hare and the tortoise wanted to race.",
+            "ms": "Arnab dan kura-kura nak berlumba.",
+            "zh": "兔子和乌龟要赛跑。",
+            "pinyin": "tùzi hé wūguī yào sài pǎo."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐰",
+              "🐢"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The hare ran very, very fast.",
+            "ms": "Arnab berlari sangat pantas.",
+            "zh": "兔子跑得很快很快。",
+            "pinyin": "tùzi pǎo dé hěn kuài hěn kuài."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐰"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "The tortoise walked slowly, step by step.",
+            "ms": "Kura-kura jalan perlahan-perlahan, selangkah demi selangkah.",
+            "zh": "乌龟慢慢地走，一步一步。",
+            "pinyin": "wūguī màn màn dì zǒu, yí bù yí bù."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐢"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "The hare was far ahead. \"I will nap a little,\" he said.",
+            "ms": "Arnab sudah jauh di depan. \"Aku nak tidur sekejap,\" katanya.",
+            "zh": "兔子跑到很前面。它说：“我要睡一下。”",
+            "pinyin": "tùzi pǎo dào hěn qián miàn. tā shuō:\"wǒ yào shuì yí xià.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐰",
+              "🌳"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The hare fell asleep under a tree.",
+            "ms": "Arnab tertidur di bawah pokok.",
+            "zh": "兔子在树下睡着了。",
+            "pinyin": "tùzi zài shù xià shuì zháo le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🌳",
+              "🐰"
+            ],
+            "accent": "zzz"
+          }
+        },
+        {
+          "line": {
+            "en": "The tortoise kept walking. He did not stop.",
+            "ms": "Kura-kura terus jalan. Dia tak berhenti.",
+            "zh": "乌龟一直走，一直走，没有停。",
+            "pinyin": "wūguī yìzhí zǒu, yìzhí zǒu, méi yǒu tíng."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐢"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "The tortoise walked right past the sleeping hare.",
+            "ms": "Kura-kura lalu di sebelah arnab yang tidur.",
+            "zh": "乌龟走过睡着的兔子。",
+            "pinyin": "wūguī zǒu guò shuì zháo de tùzi."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐢",
+              "🐰"
+            ],
+            "accent": "zzz"
+          }
+        },
+        {
+          "line": {
+            "en": "The hare woke up and ran, but it was too late!",
+            "ms": "Arnab bangun dan berlari, tapi dah terlambat!",
+            "zh": "兔子醒来就跑，可是太晚了！",
+            "pinyin": "tùzi xǐng lái jiù pǎo, kěshì tài wǎn le!"
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🐰"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "The tortoise won. Slow and steady wins the race.",
+            "ms": "Kura-kura menang! Perlahan-perlahan pun boleh menang.",
+            "zh": "乌龟赢了！慢慢来，也会赢。",
+            "pinyin": "wūguī yíng le! màn màn lái, yě huì yíng."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🐢",
+              "🏆"
+            ],
+            "accent": "sparkle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ugly-duckling",
+      "length": "medium",
+      "title": {
+        "en": "The Ugly Duckling",
+        "ms": "Anak Itik yang Hodoh",
+        "zh": "丑小鸭",
+        "pinyin": "chǒu xiǎo yā"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "🦆",
+          "🦢"
+        ],
+        "accent": "sparkle"
+      },
+      "colour": 3,
+      "pages": [
+        {
+          "line": {
+            "en": "Five eggs sat in a nest.",
+            "ms": "Lima biji telur ada dalam sarang.",
+            "zh": "窝里有五个蛋。",
+            "pinyin": "wō lǐ yǒu wǔ gè dàn."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🥚"
+            ],
+            "count": 5,
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "Four little ducks came out. Then one more.",
+            "ms": "Empat anak itik keluar. Kemudian satu lagi.",
+            "zh": "四只小鸭出来了。然后又一只。",
+            "pinyin": "sì zhī xiǎo yā chū lái le. rán hòu yòu yì zhī."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🦆"
+            ],
+            "count": 4,
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "The last one was big and grey.",
+            "ms": "Yang akhir besar dan kelabu.",
+            "zh": "最后一只又大又灰。",
+            "pinyin": "zuì hòu yì zhī yòu dà yòu huī."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦢"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"You look different,\" said the others.",
+            "ms": "\"Awak nampak lain,\" kata yang lain.",
+            "zh": "别的鸭说：“你不一样。”",
+            "pinyin": "bié de yā shuō:\"nǐ bù yíyàng.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦆",
+              "🦢"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "He felt sad and swam away alone.",
+            "ms": "Dia rasa sedih dan berenang sendiri.",
+            "zh": "它很难过，一个人游走了。",
+            "pinyin": "tā hěn nán guò, yí gè rén yóu zǒu le."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🦢"
+            ],
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "All winter he swam and grew.",
+            "ms": "Sepanjang musim sejuk dia berenang dan membesar.",
+            "zh": "整个冬天它游呀游，长大了。",
+            "pinyin": "zhěnggè dōng tiān tā yóu ya yóu, zhǎng dà le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦢",
+              "🌊"
+            ],
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "One day he looked in the water.",
+            "ms": "Satu hari dia tengok dalam air.",
+            "zh": "有一天它看看水里。",
+            "pinyin": "yǒu yìtiān tā kàn kàn shuǐ lǐ."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦢",
+              "💧"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "A beautiful swan looked back!",
+            "ms": "Seekor kayu angsa yang cantik memandangnya!",
+            "zh": "一只美丽的天鹅看着它！",
+            "pinyin": "yì zhī měi lì de tiāné kàn zhe tā!"
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🦢"
+            ],
+            "count": 2,
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "He was a swan all along. Everyone grows into themselves.",
+            "ms": "Dia memang angsa. Semua orang membesar jadi diri sendiri.",
+            "zh": "它本来就是天鹅。每个人都会长成自己。",
+            "pinyin": "tā běn lái jiù shì tiāné. měi gè rén dōu huì zhǎng chéng zì jǐ."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🦢",
+              "🦢"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bawang-putih-bawang-merah",
+      "length": "long",
+      "title": {
+        "en": "The Kind Sister and the Unkind Sister",
+        "ms": "Bawang Putih Bawang Merah",
+        "zh": "白蒜和红葱",
+        "pinyin": "bái suàn hé hóng cōng"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "👧",
+          "👧"
+        ],
+        "accent": "heart"
+      },
+      "colour": 1,
+      "pages": [
+        {
+          "line": {
+            "en": "Bawang Putih was a kind girl.",
+            "ms": "Bawang Putih seorang budak yang baik.",
+            "zh": "白蒜是一个善良的女孩。",
+            "pinyin": "bái suàn shì yí gè shàn liáng de nǚ hái."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👧"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Bawang Merah was not kind to her.",
+            "ms": "Bawang Merah tidak baik dengan dia.",
+            "zh": "红葱对她不好。",
+            "pinyin": "hóng cōng duì tā bù hǎo."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "👧"
+            ],
+            "count": 2,
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "Bawang Putih washed the clothes at the river.",
+            "ms": "Bawang Putih basuh kain di sungai.",
+            "zh": "白蒜在河边洗衣服。",
+            "pinyin": "bái suàn zài hé biān xǐ yīfu."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🌊"
+            ],
+            "accent": "splash"
+          }
+        },
+        {
+          "line": {
+            "en": "One day a shirt floated away.",
+            "ms": "Satu hari sehelai baju hanyut.",
+            "zh": "有一天一件衣服漂走了。",
+            "pinyin": "yǒu yìtiān yí jiàn yīfu piāo zǒu le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👗",
+              "🌊"
+            ],
+            "accent": "waves"
+          }
+        },
+        {
+          "line": {
+            "en": "She followed the river a long way.",
+            "ms": "Dia ikut sungai jauh sekali.",
+            "zh": "她沿着河走了很远。",
+            "pinyin": "tā yán zhe hé zǒu le hěn yuǎn."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🌊"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "She met a kind grandmother.",
+            "ms": "Dia jumpa seorang nenek yang baik.",
+            "zh": "她遇到一位好心的奶奶。",
+            "pinyin": "tā yù dào yí wèi hǎo xīn de nǎinai."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "👵"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"Have you seen my shirt?\" she asked.",
+            "ms": "\"Nenek nampak baju saya?\" dia tanya.",
+            "zh": "她问：“奶奶看见我的衣服吗？”",
+            "pinyin": "tā wèn:\"nǎinai kàn jiàn wǒ de yīfu ma?\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👧"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Help me first, then I will help you.\"",
+            "ms": "\"Tolong nenek dulu, nanti nenek tolong awak.\"",
+            "zh": "“先帮帮我，我再帮你。”",
+            "pinyin": "\"xiān bāng bāng wǒ, wǒ zài bāng nǐ.\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👵"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Bawang Putih swept and cooked rice.",
+            "ms": "Bawang Putih sapu dan masak nasi.",
+            "zh": "白蒜扫地，还煮了饭。",
+            "pinyin": "bái suàn sǎo dì, hái zhǔ le fàn."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🧹",
+              "🍚"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "She worked kindly and never complained.",
+            "ms": "Dia bekerja dengan baik dan tak merungut.",
+            "zh": "她做得很用心，没有抱怨。",
+            "pinyin": "tā zuò dé hěn yòng xīn, méi yǒu bào yuàn."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "👵"
+            ],
+            "accent": "heart"
+          }
+        },
+        {
+          "line": {
+            "en": "The grandmother gave her the shirt back.",
+            "ms": "Nenek beri baju itu balik.",
+            "zh": "奶奶把衣服还给她。",
+            "pinyin": "nǎinai bǎ yīfu hái gěi tā."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👵",
+              "👗"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "And a small basket as a gift.",
+            "ms": "Dan sebuah bakul kecil sebagai hadiah.",
+            "zh": "还送她一个小篮子。",
+            "pinyin": "hái sòng tā yí gè xiǎo lánzi."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🧺"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "Inside was gold. She ran home happily.",
+            "ms": "Di dalamnya ada emas. Dia lari balik dengan gembira.",
+            "zh": "里面是金子。她高高兴兴跑回家。",
+            "pinyin": "lǐ miàn shì jīn zi. tā gāo gāo xīng xīng pǎo huíjiā."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🧺",
+              "👧"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "She shared it with everyone, even Bawang Merah.",
+            "ms": "Dia kongsi dengan semua, termasuk Bawang Merah.",
+            "zh": "她和大家分享，连红葱也有。",
+            "pinyin": "tā hé dà jiā fēn xiǎng, lián hóng cōng yě yǒu."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "👧"
+            ],
+            "count": 2,
+            "accent": "heart"
+          }
+        },
+        {
+          "line": {
+            "en": "Kindness comes back. That is the whole story.",
+            "ms": "Kebaikan akan balik. Itulah ceritanya.",
+            "zh": "善良会回来。这就是故事。",
+            "pinyin": "shàn liáng huì huí lái. zhè jiù shì gù shì."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "👵"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cinderella",
+      "length": "long",
+      "title": {
+        "en": "Cinderella",
+        "ms": "Cinderella",
+        "zh": "灰姑娘",
+        "pinyin": "huī gū niáng"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "👧",
+          "👠"
+        ],
+        "accent": "sparkle"
+      },
+      "colour": 5,
+      "pages": [
+        {
+          "line": {
+            "en": "A kind girl lived with two unkind sisters.",
+            "ms": "Seorang budak yang baik tinggal dengan dua kakak yang tidak baik.",
+            "zh": "一个善良的女孩和两个不好心的姐姐住在一起。",
+            "pinyin": "yí gè shàn liáng de nǚ hái hé liǎng gè bù hǎo xīn de jiějie zhù zài yìqǐ."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "👧"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "She swept the floor every day.",
+            "ms": "Dia sapu lantai setiap hari.",
+            "zh": "她每天扫地。",
+            "pinyin": "tā měi tiān sǎo dì."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "🧹"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "She sat by the fire, so they called her Cinderella.",
+            "ms": "Dia duduk dekat api, jadi mereka panggil dia Cinderella.",
+            "zh": "她常坐在火边，大家叫她灰姑娘。",
+            "pinyin": "tā cháng zuò zài huǒ biān, dà jiā jiào tā huī gū niáng."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👧"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "A letter came. A ball at the palace!",
+            "ms": "Satu surat datang. Ada majlis tari di istana!",
+            "zh": "来了一封信。宫里有舞会！",
+            "pinyin": "lái le yì fēng xìn. gōng lǐ yǒu wǔhuì!"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👑",
+              "👗"
+            ],
+            "accent": "exclaim"
+          }
+        },
+        {
+          "line": {
+            "en": "\"You cannot come,\" said the sisters.",
+            "ms": "\"Awak tak boleh datang,\" kata kakak-kakak itu.",
+            "zh": "姐姐们说：“你不能去。”",
+            "pinyin": "jiějie men shuō:\"nǐ bù néng qù.\""
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "👧"
+            ],
+            "count": 2,
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "Cinderella sat down and cried a little.",
+            "ms": "Cinderella duduk dan menangis sedikit.",
+            "zh": "灰姑娘坐下来，哭了一会儿。",
+            "pinyin": "huī gū niáng zuò xià lái, kū le yí huì ér."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👧"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Then a kind fairy appeared.",
+            "ms": "Kemudian seorang pari-pari yang baik muncul.",
+            "zh": "然后一位好心的仙女出现了。",
+            "pinyin": "rán hòu yí wèi hǎo xīn de xiānnǚ chū xiàn le."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🧝"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "She made a beautiful dress.",
+            "ms": "Dia buat satu gaun yang cantik.",
+            "zh": "她变出一件漂亮的裙子。",
+            "pinyin": "tā biàn chū yí jiàn piāo liàng de qún zi."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👗"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "And two shining shoes.",
+            "ms": "Dan dua kasut yang berkilau.",
+            "zh": "还有两只闪闪的鞋子。",
+            "pinyin": "hái yǒu liǎng zhī shǎn shǎn de xiézi."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "👠"
+            ],
+            "count": 2,
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Be home by midnight,\" said the fairy.",
+            "ms": "\"Balik sebelum tengah malam,\" kata pari-pari.",
+            "zh": "仙女说：“半夜前要回家。”",
+            "pinyin": "xiānnǚ shuō:\"bàn yè qián yào huíjiā.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🧝",
+              "🕰️"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Cinderella danced at the ball.",
+            "ms": "Cinderella menari di majlis itu.",
+            "zh": "灰姑娘在舞会上跳舞。",
+            "pinyin": "huī gū niáng zài wǔhuì shàng tiào wǔ."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "👑"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "The clock struck twelve. She ran home!",
+            "ms": "Jam pukul dua belas. Dia lari balik!",
+            "zh": "钟敲十二点。她跑回家！",
+            "pinyin": "zhōng qiāo shí èr diǎn. tā pǎo huíjiā!"
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🕰️",
+              "👧"
+            ],
+            "accent": "motion"
+          }
+        },
+        {
+          "line": {
+            "en": "One shoe stayed on the steps.",
+            "ms": "Satu kasut tertinggal di tangga.",
+            "zh": "一只鞋子留在台阶上。",
+            "pinyin": "yì zhī xiézi liú zài tái jiē shàng."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👠"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The prince looked for the girl whose foot it fit.",
+            "ms": "Raja muda cari budak yang kakinya sesuai.",
+            "zh": "王子去找鞋子合脚的女孩。",
+            "pinyin": "wángzǐ qù zhǎo xiézi hé jiǎo de nǚ hái."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👑",
+              "👠"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "It fit Cinderella. They were friends, and she was happy at last.",
+            "ms": "Ia sesuai dengan Cinderella. Mereka berkawan, dan dia gembira akhirnya.",
+            "zh": "鞋子正好合灰姑娘的脚。他们成了朋友，她终于很快乐。",
+            "pinyin": "xiézi zhèng hǎo hé huī gū niáng de jiǎo. tāmen chéng le péngyou, tā zhōng yú hěn kuài lè."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👧",
+              "👑"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "snow-white",
+      "length": "long",
+      "title": {
+        "en": "Snow White",
+        "ms": "Puteri Salji",
+        "zh": "白雪公主",
+        "pinyin": "bái xuě gōngzhǔ"
+      },
+      "cover": {
+        "layout": "pair",
+        "arts": [
+          "👸",
+          "🍎"
+        ],
+        "accent": "sparkle"
+      },
+      "colour": 0,
+      "pages": [
+        {
+          "line": {
+            "en": "A princess had skin as white as snow.",
+            "ms": "Seorang puteri ada kulit putih seperti salji.",
+            "zh": "一位公主的皮肤像雪一样白。",
+            "pinyin": "yí wèi gōngzhǔ de pí fū xiàng xuě yíyàng bái."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👸"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Everyone called her Snow White.",
+            "ms": "Semua orang panggil dia Puteri Salji.",
+            "zh": "大家叫她白雪公主。",
+            "pinyin": "dà jiā jiào tā bái xuě gōngzhǔ."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "👸"
+            ],
+            "accent": "sparkle"
+          }
+        },
+        {
+          "line": {
+            "en": "The queen had a magic mirror.",
+            "ms": "Permaisuri ada cermin ajaib.",
+            "zh": "王后有一面魔镜。",
+            "pinyin": "wáng hòu yǒu yí miàn mó jìng."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👑",
+              "🪞"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "\"Who is the fairest?\" she asked it.",
+            "ms": "\"Siapa paling cantik?\" dia tanya.",
+            "zh": "她问：“谁最美？”",
+            "pinyin": "tā wèn:\"shuí zuì měi?\""
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🪞"
+            ],
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "\"Snow White is,\" said the mirror.",
+            "ms": "\"Puteri Salji,\" kata cermin itu.",
+            "zh": "魔镜说：“白雪公主。”",
+            "pinyin": "mó jìng shuō:\"bái xuě gōngzhǔ.\""
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🪞",
+              "👸"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "The queen was jealous. Snow White went to the forest.",
+            "ms": "Permaisuri cemburu. Puteri Salji pergi ke hutan.",
+            "zh": "王后很嫉妒。白雪公主去了森林。",
+            "pinyin": "wáng hòu hěn jí dù. bái xuě gōngzhǔ qù le sēnlín."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👸",
+              "🌳"
+            ],
+            "accent": "steps"
+          }
+        },
+        {
+          "line": {
+            "en": "She found a tiny house.",
+            "ms": "Dia jumpa sebuah rumah yang kecil.",
+            "zh": "她找到一间小小的房子。",
+            "pinyin": "tā zhǎo dào yì jiān xiǎo xiǎo de fángzi."
+          },
+          "art": {
+            "layout": "single",
+            "arts": [
+              "🏠"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Seven little friends lived there.",
+            "ms": "Tujuh kawan kecil tinggal di sana.",
+            "zh": "七个小朋友住在那里。",
+            "pinyin": "qī gè xiǎo péngyou zhù zài nà lǐ."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🧝"
+            ],
+            "count": 5,
+            "accent": "counting"
+          }
+        },
+        {
+          "line": {
+            "en": "They shared their bread with her.",
+            "ms": "Mereka kongsi roti dengan dia.",
+            "zh": "他们把面包分给她。",
+            "pinyin": "tāmen bǎ miànbāo fēn gěi tā."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🧝",
+              "🍞"
+            ],
+            "accent": "heart"
+          }
+        },
+        {
+          "line": {
+            "en": "The queen came with a red apple.",
+            "ms": "Permaisuri datang dengan sebiji epal merah.",
+            "zh": "王后带着一个红苹果来了。",
+            "pinyin": "wáng hòu dài zhe yí gè hóng píngguǒ lái le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👑",
+              "🍎"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Snow White took one bite and fell fast asleep.",
+            "ms": "Puteri Salji makan sedikit dan terus tertidur.",
+            "zh": "白雪公主咬了一口，就睡着了。",
+            "pinyin": "bái xuě gōngzhǔ yǎo le yì kǒu, jiù shuì zháo le."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👸",
+              "🍎"
+            ],
+            "accent": "zzz"
+          }
+        },
+        {
+          "line": {
+            "en": "Her friends were very sad.",
+            "ms": "Kawan-kawannya sangat sedih.",
+            "zh": "小朋友们很难过。",
+            "pinyin": "xiǎo péngyou men hěn nán guò."
+          },
+          "art": {
+            "layout": "repeated",
+            "arts": [
+              "🧝"
+            ],
+            "count": 3,
+            "accent": "question"
+          }
+        },
+        {
+          "line": {
+            "en": "They kept her safe and waited.",
+            "ms": "Mereka jaga dia dan tunggu.",
+            "zh": "他们守着她，等着。",
+            "pinyin": "tāmen shǒu zhe tā, děng zhe."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "🧝",
+              "👸"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "A prince came and called her name softly.",
+            "ms": "Seorang raja muda datang dan panggil namanya perlahan.",
+            "zh": "一位王子来了，轻轻叫她的名字。",
+            "pinyin": "yí wèi wángzǐ lái le, qīng qīng jiào tā de míng zì."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👑",
+              "👸"
+            ]
+          }
+        },
+        {
+          "line": {
+            "en": "Snow White woke up and smiled. Everyone was safe.",
+            "ms": "Puteri Salji bangun dan tersenyum. Semua selamat.",
+            "zh": "白雪公主醒来笑了。大家都平安。",
+            "pinyin": "bái xuě gōngzhǔ xǐng lái xiào le. dà jiā dōu píng ān."
+          },
+          "art": {
+            "layout": "pair",
+            "arts": [
+              "👸",
+              "🧝"
+            ],
+            "accent": "heart"
+          }
+        }
+      ]
+    }
+  ]
+}

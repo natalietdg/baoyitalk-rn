@@ -1,0 +1,48 @@
+{
+ "line": "后来下雨了，好冷。",
+ "totalMs": 1906,
+ "marks": [
+  {
+   "char": "后",
+   "charIndex": 0,
+   "startMs": 0,
+   "endMs": 322
+  },
+  {
+   "char": "来",
+   "charIndex": 1,
+   "startMs": 322,
+   "endMs": 566
+  },
+  {
+   "char": "下",
+   "charIndex": 2,
+   "startMs": 566,
+   "endMs": 757
+  },
+  {
+   "char": "雨",
+   "charIndex": 3,
+   "startMs": 757,
+   "endMs": 954
+  },
+  {
+   "char": "了",
+   "charIndex": 4,
+   "startMs": 954,
+   "endMs": 1036
+  },
+  {
+   "char": "好",
+   "charIndex": 6,
+   "startMs": 1036,
+   "endMs": 1709
+  },
+  {
+   "char": "冷",
+   "charIndex": 7,
+   "startMs": 1709,
+   "endMs": 1906
+  }
+ ]
+}

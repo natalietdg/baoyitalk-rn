@@ -1,0 +1,78 @@
+{
+ "line": "整个夏天，蚂蚁把食物搬回家。",
+ "totalMs": 3052,
+ "marks": [
+  {
+   "char": "整",
+   "charIndex": 0,
+   "startMs": 0,
+   "endMs": 312
+  },
+  {
+   "char": "个",
+   "charIndex": 1,
+   "startMs": 312,
+   "endMs": 440
+  },
+  {
+   "char": "夏",
+   "charIndex": 2,
+   "startMs": 440,
+   "endMs": 649
+  },
+  {
+   "char": "天",
+   "charIndex": 3,
+   "startMs": 649,
+   "endMs": 985
+  },
+  {
+   "char": "蚂",
+   "charIndex": 5,
+   "startMs": 985,
+   "endMs": 1566
+  },
+  {
+   "char": "蚁",
+   "charIndex": 6,
+   "startMs": 1566,
+   "endMs": 1740
+  },
+  {
+   "char": "把",
+   "charIndex": 7,
+   "startMs": 1740,
+   "endMs": 1914
+  },
+  {
+   "char": "食",
+   "charIndex": 8,
+   "startMs": 1914,
+   "endMs": 2239
+  },
+  {
+   "char": "物",
+   "charIndex": 9,
+   "startMs": 2239,
+   "endMs": 2344
+  },
+  {
+   "char": "搬",
+   "charIndex": 10,
+   "startMs": 2344,
+   "endMs": 2576
+  },
+  {
+   "char": "回",
+   "charIndex": 11,
+   "startMs": 2576,
+   "endMs": 2797
+  },
+  {
+   "char": "家",
+   "charIndex": 12,
+   "startMs": 2797,
+   "endMs": 3052
+  }
+ ]
+}

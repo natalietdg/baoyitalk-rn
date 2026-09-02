@@ -1,0 +1,50 @@
+{
+  "goesTogether": {
+    "roundsPerSession": 5,
+    "pairs": [
+      { "object": "milk",   "action": "drink", "relation": { "en": "Drink the milk",      "ms": "Minum susu",     "zh": "喝牛奶", "pinyin": "hē niúnǎi" } },
+      { "object": "water",  "action": "drink", "relation": { "en": "Drink the water",     "ms": "Minum air",      "zh": "喝水",   "pinyin": "hē shuǐ" } },
+      { "object": "juice",  "action": "drink", "relation": { "en": "Drink the juice",     "ms": "Minum jus",      "zh": "喝果汁", "pinyin": "hē guǒzhī" } },
+      { "object": "rice",   "action": "eat",   "relation": { "en": "Eat the rice",        "ms": "Makan nasi",     "zh": "吃饭",   "pinyin": "chī fàn" } },
+      { "object": "apple",  "action": "eat",   "relation": { "en": "Eat the apple",       "ms": "Makan epal",     "zh": "吃苹果", "pinyin": "chī píngguǒ" } },
+      { "object": "banana", "action": "eat",   "relation": { "en": "Eat the banana",      "ms": "Makan pisang",   "zh": "吃香蕉", "pinyin": "chī xiāngjiāo" } },
+      { "object": "bread",  "action": "eat",   "relation": { "en": "Eat the bread",       "ms": "Makan roti",     "zh": "吃面包", "pinyin": "chī miànbāo" } },
+      { "object": "book",   "action": "read",  "relation": { "en": "Read the book",       "ms": "Baca buku",      "zh": "看书",   "pinyin": "kàn shū" } },
+      { "object": "ball",   "action": "play",  "relation": { "en": "Play with the ball",  "ms": "Main bola",      "zh": "玩球",   "pinyin": "wán qiú" } },
+      { "object": "car",    "action": "play",  "relation": { "en": "Play with the car",   "ms": "Main kereta",    "zh": "玩车车", "pinyin": "wán chēche" } },
+      { "object": "hand",   "action": "wash",  "relation": { "en": "Wash your hands",     "ms": "Basuh tangan",   "zh": "洗手",   "pinyin": "xǐ shǒu" } },
+      { "object": "foot",   "action": "wash",  "relation": { "en": "Wash your feet",      "ms": "Basuh kaki",     "zh": "洗脚",   "pinyin": "xǐ jiǎo" } }
+    ],
+    "observations": [
+      { "action": "eat",   "phrase": { "en": "{word}? We don't usually eat that!",         "ms": "{word}? Kita tak makan itu!",  "zh": "{word}？我们不吃那个！", "pinyin": "{word}? wǒmen bù chī nàge!" } },
+      { "action": "drink", "phrase": { "en": "{word}? We don't usually drink that!",        "ms": "{word}? Kita tak minum itu!",  "zh": "{word}？我们不喝那个！", "pinyin": "{word}? wǒmen bù hē nàge!" } },
+      { "action": "read",  "phrase": { "en": "{word}? We don't usually read that!",         "ms": "{word}? Kita tak baca itu!",   "zh": "{word}？我们不读那个！", "pinyin": "{word}? wǒmen bù dú nàge!" } },
+      { "action": "play",  "phrase": { "en": "{word}? We don't usually play with that!",    "ms": "{word}? Kita tak main itu!",   "zh": "{word}？我们不玩那个！", "pinyin": "{word}? wǒmen bù wán nàge!" } },
+      { "action": "wash",  "phrase": { "en": "{word}? We don't usually wash that!",         "ms": "{word}? Kita tak basuh itu!",  "zh": "{word}？我们不洗那个！", "pinyin": "{word}? wǒmen bù xǐ nàge!" } }
+    ]
+  },
+
+  "threeNames": {
+    "roundsPerSession": 4,
+    "words": ["cat", "apple", "ball", "mama", "dog", "milk", "shoe", "baby"]
+  },
+
+  "belongs": {
+    "roundsPerSession": 6,
+    "baskets": [
+      { "category": "animals", "art": "🐱", "name": { "en": "Animals", "ms": "Binatang", "zh": "动物", "pinyin": "dòngwù" } },
+      { "category": "food",    "art": "🍎", "name": { "en": "Food",    "ms": "Makanan",  "zh": "食物", "pinyin": "shíwù" } }
+    ],
+    "words": ["cat", "apple", "duck", "banana", "dog", "rice", "rabbit", "bread", "fish", "milk"]
+  },
+
+  "countFingers": {
+    "roundsPerSession": 3,
+    "rounds": [
+      { "word": "duck",  "count": 4, "total": { "en": "Four ducks",  "ms": "Empat itik",  "zh": "四只鸭子", "pinyin": "sì zhī yāzi" } },
+      { "word": "apple", "count": 3, "total": { "en": "Three apples", "ms": "Tiga epal",  "zh": "三个苹果", "pinyin": "sān gè píngguǒ" } },
+      { "word": "ball",  "count": 5, "total": { "en": "Five balls",  "ms": "Lima bola",   "zh": "五个球",   "pinyin": "wǔ gè qiú" } },
+      { "word": "cat",   "count": 2, "total": { "en": "Two cats",    "ms": "Dua kucing",  "zh": "两只猫",   "pinyin": "liǎng zhī māo" } }
+    ]
+  }
+}

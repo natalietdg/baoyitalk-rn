@@ -1,0 +1,1257 @@
+{
+  "words": [
+    {
+      "id": "cat",
+      "category": "animals",
+      "art": "🐱",
+      "text": {
+        "en": "Cat",
+        "ms": "kucing",
+        "zh": "猫",
+        "pinyin": "māo"
+      }
+    },
+    {
+      "id": "dog",
+      "category": "animals",
+      "art": "🐶",
+      "text": {
+        "en": "Dog",
+        "ms": "anjing",
+        "zh": "狗狗",
+        "pinyin": "gǒugou"
+      }
+    },
+    {
+      "id": "fish",
+      "category": "animals",
+      "art": "🐟",
+      "text": {
+        "en": "Fish",
+        "ms": "ikan",
+        "zh": "鱼",
+        "pinyin": "yú"
+      }
+    },
+    {
+      "id": "bird",
+      "category": "animals",
+      "art": "🐦",
+      "text": {
+        "en": "Bird",
+        "ms": "burung",
+        "zh": "鸟",
+        "pinyin": "niǎo"
+      }
+    },
+    {
+      "id": "sheep",
+      "category": "animals",
+      "art": "🐑",
+      "text": {
+        "en": "Sheep",
+        "ms": "biri-biri",
+        "zh": "绵羊",
+        "pinyin": "miányáng"
+      }
+    },
+    {
+      "id": "chicken",
+      "category": "animals",
+      "art": "🐔",
+      "text": {
+        "en": "Chicken",
+        "ms": "ayam",
+        "zh": "鸡",
+        "pinyin": "jī"
+      }
+    },
+    {
+      "id": "cow",
+      "category": "animals",
+      "art": "🐮",
+      "text": {
+        "en": "Cow",
+        "ms": "lembu",
+        "zh": "牛",
+        "pinyin": "niú"
+      }
+    },
+    {
+      "id": "duck",
+      "category": "animals",
+      "art": "🦆",
+      "text": {
+        "en": "Duck",
+        "ms": "itik",
+        "zh": "鸭",
+        "pinyin": "yā"
+      }
+    },
+    {
+      "id": "horse",
+      "category": "animals",
+      "art": "🐴",
+      "text": {
+        "en": "Horse",
+        "ms": "kuda",
+        "zh": "马",
+        "pinyin": "mǎ"
+      }
+    },
+    {
+      "id": "rabbit",
+      "category": "animals",
+      "art": "🐰",
+      "text": {
+        "en": "Rabbit",
+        "ms": "arnab",
+        "zh": "兔子",
+        "pinyin": "tùzi"
+      }
+    },
+    {
+      "id": "elephant",
+      "category": "animals",
+      "art": "🐘",
+      "text": {
+        "en": "Elephant",
+        "ms": "gajah",
+        "zh": "大象",
+        "pinyin": "dàxiàng"
+      }
+    },
+    {
+      "id": "tiger",
+      "category": "animals",
+      "art": "🐯",
+      "text": {
+        "en": "Tiger",
+        "ms": "harimau",
+        "zh": "老虎",
+        "pinyin": "lǎohǔ"
+      }
+    },
+    {
+      "id": "monkey",
+      "category": "animals",
+      "art": "🐵",
+      "text": {
+        "en": "Monkey",
+        "ms": "monyet",
+        "zh": "猴子",
+        "pinyin": "hóuzi"
+      }
+    },
+    {
+      "id": "lion",
+      "category": "animals",
+      "art": "🦁",
+      "text": {
+        "en": "Lion",
+        "ms": "singa",
+        "zh": "狮子",
+        "pinyin": "shīzi"
+      }
+    },
+    {
+      "id": "bear",
+      "category": "animals",
+      "art": "🐻",
+      "text": {
+        "en": "Bear",
+        "ms": "beruang",
+        "zh": "熊",
+        "pinyin": "xióng"
+      }
+    },
+    {
+      "id": "mouse",
+      "category": "animals",
+      "art": "🐭",
+      "text": {
+        "en": "Mouse",
+        "ms": "tikus",
+        "zh": "老鼠",
+        "pinyin": "lǎoshǔ"
+      }
+    },
+    {
+      "id": "frog",
+      "category": "animals",
+      "art": "🐸",
+      "text": {
+        "en": "Frog",
+        "ms": "katak",
+        "zh": "青蛙",
+        "pinyin": "qīngwā"
+      }
+    },
+    {
+      "id": "butterfly",
+      "category": "animals",
+      "art": "🦋",
+      "text": {
+        "en": "Butterfly",
+        "ms": "kupu-kupu",
+        "zh": "蝴蝶",
+        "pinyin": "húdié"
+      }
+    },
+    {
+      "id": "ant",
+      "category": "animals",
+      "art": "🐜",
+      "text": {
+        "en": "Ant",
+        "ms": "semut",
+        "zh": "蚂蚁",
+        "pinyin": "mǎyǐ"
+      }
+    },
+    {
+      "id": "turtle",
+      "category": "animals",
+      "art": "🐢",
+      "text": {
+        "en": "Turtle",
+        "ms": "kura-kura",
+        "zh": "乌龟",
+        "pinyin": "wūguī"
+      }
+    },
+    {
+      "id": "crocodile",
+      "category": "animals",
+      "art": "🐊",
+      "text": {
+        "en": "Crocodile",
+        "ms": "buaya",
+        "zh": "鳄鱼",
+        "pinyin": "èyú"
+      }
+    },
+    {
+      "id": "goat",
+      "category": "animals",
+      "art": "🐐",
+      "text": {
+        "en": "Goat",
+        "ms": "kambing",
+        "zh": "山羊",
+        "pinyin": "shānyáng"
+      }
+    },
+    {
+      "id": "deer",
+      "category": "animals",
+      "art": "🦌",
+      "text": {
+        "en": "Deer",
+        "ms": "rusa",
+        "zh": "鹿",
+        "pinyin": "lù"
+      }
+    },
+    {
+      "id": "bee",
+      "category": "animals",
+      "art": "🐝",
+      "text": {
+        "en": "Bee",
+        "ms": "lebah",
+        "zh": "蜜蜂",
+        "pinyin": "mìfēng"
+      }
+    },
+    {
+      "id": "spider",
+      "category": "animals",
+      "art": "🕷️",
+      "text": {
+        "en": "Spider",
+        "ms": "labah-labah",
+        "zh": "蜘蛛",
+        "pinyin": "zhīzhū"
+      }
+    },
+    {
+      "id": "apple",
+      "category": "food",
+      "art": "🍎",
+      "text": {
+        "en": "Apple",
+        "ms": "epal",
+        "zh": "苹果",
+        "pinyin": "píngguǒ"
+      }
+    },
+    {
+      "id": "banana",
+      "category": "food",
+      "art": "🍌",
+      "text": {
+        "en": "Banana",
+        "ms": "pisang",
+        "zh": "香蕉",
+        "pinyin": "xiāngjiāo"
+      }
+    },
+    {
+      "id": "milk",
+      "category": "food",
+      "art": "🥛",
+      "text": {
+        "en": "Milk",
+        "ms": "susu",
+        "zh": "牛奶",
+        "pinyin": "niúnǎi"
+      }
+    },
+    {
+      "id": "rice",
+      "category": "food",
+      "art": "🍚",
+      "text": {
+        "en": "Rice",
+        "ms": "nasi",
+        "zh": "饭",
+        "pinyin": "fàn"
+      }
+    },
+    {
+      "id": "water",
+      "category": "food",
+      "art": "💧",
+      "text": {
+        "en": "Water",
+        "ms": "air",
+        "zh": "水",
+        "pinyin": "shuǐ"
+      }
+    },
+    {
+      "id": "bread",
+      "category": "food",
+      "art": "🍞",
+      "text": {
+        "en": "Bread",
+        "ms": "roti",
+        "zh": "面包",
+        "pinyin": "miànbāo"
+      }
+    },
+    {
+      "id": "egg",
+      "category": "food",
+      "art": "🥚",
+      "text": {
+        "en": "Egg",
+        "ms": "telur",
+        "zh": "蛋",
+        "pinyin": "dàn"
+      }
+    },
+    {
+      "id": "orange",
+      "category": "food",
+      "art": "🍊",
+      "text": {
+        "en": "Orange",
+        "ms": "oren",
+        "zh": "橙",
+        "pinyin": "chéng"
+      }
+    },
+    {
+      "id": "mango",
+      "category": "food",
+      "art": "🥭",
+      "text": {
+        "en": "Mango",
+        "ms": "mangga",
+        "zh": "芒果",
+        "pinyin": "mángguǒ"
+      }
+    },
+    {
+      "id": "grapes",
+      "category": "food",
+      "art": "🍇",
+      "text": {
+        "en": "Grapes",
+        "ms": "anggur",
+        "zh": "葡萄",
+        "pinyin": "pútao"
+      }
+    },
+    {
+      "id": "watermelon",
+      "category": "food",
+      "art": "🍉",
+      "text": {
+        "en": "Watermelon",
+        "ms": "tembikai",
+        "zh": "西瓜",
+        "pinyin": "xīguā"
+      }
+    },
+    {
+      "id": "carrot",
+      "category": "food",
+      "art": "🥕",
+      "text": {
+        "en": "Carrot",
+        "ms": "lobak merah",
+        "zh": "红萝卜",
+        "pinyin": "hóngluóbo"
+      }
+    },
+    {
+      "id": "noodles",
+      "category": "food",
+      "art": "🍜",
+      "text": {
+        "en": "Noodles",
+        "ms": "mi",
+        "zh": "面",
+        "pinyin": "miàn"
+      }
+    },
+    {
+      "id": "juice",
+      "category": "food",
+      "art": "🧃",
+      "text": {
+        "en": "Juice",
+        "ms": "jus",
+        "zh": "果汁",
+        "pinyin": "guǒzhī"
+      }
+    },
+    {
+      "id": "biscuit",
+      "category": "food",
+      "art": "🍪",
+      "text": {
+        "en": "Biscuit",
+        "ms": "biskut",
+        "zh": "饼干",
+        "pinyin": "bǐnggān"
+      }
+    },
+    {
+      "id": "sweets",
+      "category": "food",
+      "art": "🍬",
+      "text": {
+        "en": "Sweets",
+        "ms": "gula-gula",
+        "zh": "糖",
+        "pinyin": "táng"
+      }
+    },
+    {
+      "id": "icecream",
+      "category": "food",
+      "art": "🍦",
+      "text": {
+        "en": "Ice cream",
+        "ms": "aiskrim",
+        "zh": "冰淇淋",
+        "pinyin": "bīngqílín"
+      }
+    },
+    {
+      "id": "coconut",
+      "category": "food",
+      "art": "🥥",
+      "text": {
+        "en": "Coconut",
+        "ms": "kelapa",
+        "zh": "椰子",
+        "pinyin": "yēzi"
+      }
+    },
+    {
+      "id": "corn",
+      "category": "food",
+      "art": "🌽",
+      "text": {
+        "en": "Corn",
+        "ms": "jagung",
+        "zh": "玉米",
+        "pinyin": "yùmǐ"
+      }
+    },
+    {
+      "id": "cake",
+      "category": "food",
+      "art": "🍰",
+      "text": {
+        "en": "Cake",
+        "ms": "kek",
+        "zh": "蛋糕",
+        "pinyin": "dàngāo"
+      }
+    },
+    {
+      "id": "tomato",
+      "category": "food",
+      "art": "🍅",
+      "text": {
+        "en": "Tomato",
+        "ms": "tomato",
+        "zh": "番茄",
+        "pinyin": "fānqié"
+      }
+    },
+    {
+      "id": "mama",
+      "category": "family",
+      "art": "👩",
+      "text": {
+        "en": "Mama",
+        "ms": "mama",
+        "zh": "妈妈",
+        "pinyin": "māma"
+      }
+    },
+    {
+      "id": "papa",
+      "category": "family",
+      "art": "👨",
+      "text": {
+        "en": "Papa",
+        "ms": "ayah",
+        "zh": "爸爸",
+        "pinyin": "bàba"
+      }
+    },
+    {
+      "id": "baby",
+      "category": "family",
+      "art": "👶",
+      "text": {
+        "en": "Baby",
+        "ms": "bayi",
+        "zh": "宝宝",
+        "pinyin": "bǎobao"
+      }
+    },
+    {
+      "id": "sister",
+      "category": "family",
+      "art": "👧",
+      "text": {
+        "en": "Big sister",
+        "ms": "kakak",
+        "zh": "姐姐",
+        "pinyin": "jiějie"
+      }
+    },
+    {
+      "id": "brother",
+      "category": "family",
+      "art": "👦",
+      "text": {
+        "en": "Big brother",
+        "ms": "abang",
+        "zh": "哥哥",
+        "pinyin": "gēge"
+      }
+    },
+    {
+      "id": "grandma",
+      "category": "family",
+      "art": "👵",
+      "text": {
+        "en": "Grandma",
+        "ms": "nenek",
+        "zh": "奶奶",
+        "pinyin": "nǎinai"
+      }
+    },
+    {
+      "id": "grandpa",
+      "category": "family",
+      "art": "👴",
+      "text": {
+        "en": "Grandpa",
+        "ms": "atuk",
+        "zh": "爷爷",
+        "pinyin": "yéye"
+      }
+    },
+    {
+      "id": "hand",
+      "category": "body",
+      "art": "✋",
+      "text": {
+        "en": "Hand",
+        "ms": "tangan",
+        "zh": "手",
+        "pinyin": "shǒu"
+      }
+    },
+    {
+      "id": "eye",
+      "category": "body",
+      "art": "👀",
+      "text": {
+        "en": "Eye",
+        "ms": "mata",
+        "zh": "眼睛",
+        "pinyin": "yǎnjing"
+      }
+    },
+    {
+      "id": "nose",
+      "category": "body",
+      "art": "👃",
+      "text": {
+        "en": "Nose",
+        "ms": "hidung",
+        "zh": "鼻子",
+        "pinyin": "bízi"
+      }
+    },
+    {
+      "id": "mouth",
+      "category": "body",
+      "art": "👄",
+      "text": {
+        "en": "Mouth",
+        "ms": "mulut",
+        "zh": "嘴",
+        "pinyin": "zuǐ"
+      }
+    },
+    {
+      "id": "ear",
+      "category": "body",
+      "art": "👂",
+      "text": {
+        "en": "Ear",
+        "ms": "telinga",
+        "zh": "耳朵",
+        "pinyin": "ěrduo"
+      }
+    },
+    {
+      "id": "hair",
+      "category": "body",
+      "art": "🦱",
+      "text": {
+        "en": "Hair",
+        "ms": "rambut",
+        "zh": "头发",
+        "pinyin": "tóufa"
+      }
+    },
+    {
+      "id": "foot",
+      "category": "body",
+      "art": "🦶",
+      "text": {
+        "en": "Foot",
+        "ms": "kaki",
+        "zh": "脚",
+        "pinyin": "jiǎo"
+      }
+    },
+    {
+      "id": "tooth",
+      "category": "body",
+      "art": "🦷",
+      "text": {
+        "en": "Tooth",
+        "ms": "gigi",
+        "zh": "牙齿",
+        "pinyin": "yáchǐ"
+      }
+    },
+    {
+      "id": "ball",
+      "category": "things",
+      "art": "⚽",
+      "text": {
+        "en": "Ball",
+        "ms": "bola",
+        "zh": "球",
+        "pinyin": "qiú"
+      }
+    },
+    {
+      "id": "car",
+      "category": "things",
+      "art": "🚗",
+      "text": {
+        "en": "Car",
+        "ms": "kereta",
+        "zh": "车车",
+        "pinyin": "chēche"
+      }
+    },
+    {
+      "id": "book",
+      "category": "things",
+      "art": "📕",
+      "text": {
+        "en": "Book",
+        "ms": "buku",
+        "zh": "书",
+        "pinyin": "shū"
+      }
+    },
+    {
+      "id": "shoe",
+      "category": "things",
+      "art": "👞",
+      "text": {
+        "en": "Shoe",
+        "ms": "kasut",
+        "zh": "鞋",
+        "pinyin": "xié"
+      }
+    },
+    {
+      "id": "hat",
+      "category": "things",
+      "art": "🧢",
+      "text": {
+        "en": "Hat",
+        "ms": "topi",
+        "zh": "帽子",
+        "pinyin": "màozi"
+      }
+    },
+    {
+      "id": "bag",
+      "category": "things",
+      "art": "🎒",
+      "text": {
+        "en": "Bag",
+        "ms": "beg",
+        "zh": "包",
+        "pinyin": "bāo"
+      }
+    },
+    {
+      "id": "cup",
+      "category": "things",
+      "art": "☕",
+      "text": {
+        "en": "Cup",
+        "ms": "cawan",
+        "zh": "杯",
+        "pinyin": "bēi"
+      }
+    },
+    {
+      "id": "spoon",
+      "category": "things",
+      "art": "🥄",
+      "text": {
+        "en": "Spoon",
+        "ms": "sudu",
+        "zh": "勺",
+        "pinyin": "sháo"
+      }
+    },
+    {
+      "id": "door",
+      "category": "things",
+      "art": "🚪",
+      "text": {
+        "en": "Door",
+        "ms": "pintu",
+        "zh": "门",
+        "pinyin": "mén"
+      }
+    },
+    {
+      "id": "chair",
+      "category": "things",
+      "art": "🪑",
+      "text": {
+        "en": "Chair",
+        "ms": "kerusi",
+        "zh": "椅子",
+        "pinyin": "yǐzi"
+      }
+    },
+    {
+      "id": "bed",
+      "category": "things",
+      "art": "🛏️",
+      "text": {
+        "en": "Bed",
+        "ms": "katil",
+        "zh": "床",
+        "pinyin": "chuáng"
+      }
+    },
+    {
+      "id": "bicycle",
+      "category": "things",
+      "art": "🚲",
+      "text": {
+        "en": "Bicycle",
+        "ms": "basikal",
+        "zh": "脚踏车",
+        "pinyin": "jiǎotàchē"
+      }
+    },
+    {
+      "id": "bus",
+      "category": "things",
+      "art": "🚌",
+      "text": {
+        "en": "Bus",
+        "ms": "bas",
+        "zh": "巴士",
+        "pinyin": "bāshì"
+      }
+    },
+    {
+      "id": "boat",
+      "category": "things",
+      "art": "⛵",
+      "text": {
+        "en": "Boat",
+        "ms": "bot",
+        "zh": "船",
+        "pinyin": "chuán"
+      }
+    },
+    {
+      "id": "plane",
+      "category": "things",
+      "art": "✈️",
+      "text": {
+        "en": "Plane",
+        "ms": "kapal terbang",
+        "zh": "飞机",
+        "pinyin": "fēijī"
+      }
+    },
+    {
+      "id": "phone",
+      "category": "things",
+      "art": "📱",
+      "text": {
+        "en": "Phone",
+        "ms": "telefon",
+        "zh": "电话",
+        "pinyin": "diànhuà"
+      }
+    },
+    {
+      "id": "key",
+      "category": "things",
+      "art": "🔑",
+      "text": {
+        "en": "Key",
+        "ms": "kunci",
+        "zh": "钥匙",
+        "pinyin": "yàoshi"
+      }
+    },
+    {
+      "id": "umbrella",
+      "category": "things",
+      "art": "☂️",
+      "text": {
+        "en": "Umbrella",
+        "ms": "payung",
+        "zh": "雨伞",
+        "pinyin": "yǔsǎn"
+      }
+    },
+    {
+      "id": "clock",
+      "category": "things",
+      "art": "🕰️",
+      "text": {
+        "en": "Clock",
+        "ms": "jam",
+        "zh": "钟",
+        "pinyin": "zhōng"
+      }
+    },
+    {
+      "id": "sun",
+      "category": "things",
+      "art": "🌞",
+      "text": {
+        "en": "Sun",
+        "ms": "matahari",
+        "zh": "太阳",
+        "pinyin": "tàiyáng"
+      }
+    },
+    {
+      "id": "moon",
+      "category": "things",
+      "art": "🌛",
+      "text": {
+        "en": "Moon",
+        "ms": "bulan",
+        "zh": "月亮",
+        "pinyin": "yuèliang"
+      }
+    },
+    {
+      "id": "eat",
+      "category": "actions",
+      "art": "😋",
+      "text": {
+        "en": "Eat",
+        "ms": "makan",
+        "zh": "吃",
+        "pinyin": "chī"
+      }
+    },
+    {
+      "id": "sleep",
+      "category": "actions",
+      "art": "😴",
+      "text": {
+        "en": "Sleep",
+        "ms": "tidur",
+        "zh": "睡",
+        "pinyin": "shuì"
+      }
+    },
+    {
+      "id": "drink",
+      "category": "actions",
+      "art": "🥤",
+      "text": {
+        "en": "Drink",
+        "ms": "minum",
+        "zh": "喝",
+        "pinyin": "hē"
+      }
+    },
+    {
+      "id": "play",
+      "category": "actions",
+      "art": "🧸",
+      "text": {
+        "en": "Play",
+        "ms": "main",
+        "zh": "玩",
+        "pinyin": "wán"
+      }
+    },
+    {
+      "id": "walk",
+      "category": "actions",
+      "art": "🚶",
+      "text": {
+        "en": "Walk",
+        "ms": "jalan",
+        "zh": "走",
+        "pinyin": "zǒu"
+      }
+    },
+    {
+      "id": "run",
+      "category": "actions",
+      "art": "🏃",
+      "text": {
+        "en": "Run",
+        "ms": "berlari",
+        "zh": "跑",
+        "pinyin": "pǎo"
+      }
+    },
+    {
+      "id": "stand",
+      "category": "actions",
+      "art": "🧍",
+      "text": {
+        "en": "Stand",
+        "ms": "berdiri",
+        "zh": "站",
+        "pinyin": "zhàn"
+      }
+    },
+    {
+      "id": "wash",
+      "category": "actions",
+      "art": "🧼",
+      "text": {
+        "en": "Wash",
+        "ms": "basuh",
+        "zh": "洗",
+        "pinyin": "xǐ"
+      }
+    },
+    {
+      "id": "read",
+      "category": "actions",
+      "art": "📖",
+      "text": {
+        "en": "Read",
+        "ms": "baca",
+        "zh": "看书",
+        "pinyin": "kànshū"
+      }
+    },
+    {
+      "id": "sing",
+      "category": "actions",
+      "art": "🎤",
+      "text": {
+        "en": "Sing",
+        "ms": "menyanyi",
+        "zh": "唱歌",
+        "pinyin": "chànggē"
+      }
+    },
+    {
+      "id": "laugh",
+      "category": "actions",
+      "art": "😂",
+      "text": {
+        "en": "Laugh",
+        "ms": "ketawa",
+        "zh": "笑",
+        "pinyin": "xiào"
+      }
+    },
+    {
+      "id": "red",
+      "category": "colours",
+      "art": "swatch:red",
+      "text": {
+        "en": "Red",
+        "ms": "merah",
+        "zh": "红",
+        "pinyin": "hóng"
+      }
+    },
+    {
+      "id": "blue",
+      "category": "colours",
+      "art": "swatch:blue",
+      "text": {
+        "en": "Blue",
+        "ms": "biru",
+        "zh": "蓝",
+        "pinyin": "lán"
+      }
+    },
+    {
+      "id": "yellow",
+      "category": "colours",
+      "art": "swatch:yellow",
+      "text": {
+        "en": "Yellow",
+        "ms": "kuning",
+        "zh": "黄",
+        "pinyin": "huáng"
+      }
+    },
+    {
+      "id": "green",
+      "category": "colours",
+      "art": "swatch:green",
+      "text": {
+        "en": "Green",
+        "ms": "hijau",
+        "zh": "绿",
+        "pinyin": "lǜ"
+      }
+    },
+    {
+      "id": "orange-colour",
+      "category": "colours",
+      "art": "swatch:orange",
+      "text": {
+        "en": "Orange",
+        "ms": "oren",
+        "zh": "橙",
+        "pinyin": "chéng"
+      }
+    },
+    {
+      "id": "purple",
+      "category": "colours",
+      "art": "swatch:purple",
+      "text": {
+        "en": "Purple",
+        "ms": "ungu",
+        "zh": "紫",
+        "pinyin": "zǐ"
+      }
+    },
+    {
+      "id": "black",
+      "category": "colours",
+      "art": "swatch:black",
+      "text": {
+        "en": "Black",
+        "ms": "hitam",
+        "zh": "黑",
+        "pinyin": "hēi"
+      }
+    },
+    {
+      "id": "white",
+      "category": "colours",
+      "art": "swatch:white",
+      "text": {
+        "en": "White",
+        "ms": "putih",
+        "zh": "白",
+        "pinyin": "bái"
+      }
+    },
+    {
+      "id": "pink",
+      "category": "colours",
+      "art": "swatch:pink",
+      "text": {
+        "en": "Pink",
+        "ms": "merah jambu",
+        "zh": "粉红",
+        "pinyin": "fěnhóng"
+      }
+    },
+    {
+      "id": "brown",
+      "category": "colours",
+      "art": "swatch:brown",
+      "text": {
+        "en": "Brown",
+        "ms": "coklat",
+        "zh": "棕",
+        "pinyin": "zōng"
+      }
+    },
+    {
+      "id": "one",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 1,
+      "text": {
+        "en": "One",
+        "ms": "satu",
+        "zh": "一",
+        "pinyin": "yī"
+      }
+    },
+    {
+      "id": "two",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 2,
+      "text": {
+        "en": "Two",
+        "ms": "dua",
+        "zh": "二",
+        "pinyin": "èr"
+      }
+    },
+    {
+      "id": "three",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 3,
+      "text": {
+        "en": "Three",
+        "ms": "tiga",
+        "zh": "三",
+        "pinyin": "sān"
+      }
+    },
+    {
+      "id": "four",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 4,
+      "text": {
+        "en": "Four",
+        "ms": "empat",
+        "zh": "四",
+        "pinyin": "sì"
+      }
+    },
+    {
+      "id": "five",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 5,
+      "text": {
+        "en": "Five",
+        "ms": "lima",
+        "zh": "五",
+        "pinyin": "wǔ"
+      }
+    },
+    {
+      "id": "six",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 6,
+      "text": {
+        "en": "Six",
+        "ms": "enam",
+        "zh": "六",
+        "pinyin": "liù"
+      }
+    },
+    {
+      "id": "seven",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 7,
+      "text": {
+        "en": "Seven",
+        "ms": "tujuh",
+        "zh": "七",
+        "pinyin": "qī"
+      }
+    },
+    {
+      "id": "eight",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 8,
+      "text": {
+        "en": "Eight",
+        "ms": "lapan",
+        "zh": "八",
+        "pinyin": "bā"
+      }
+    },
+    {
+      "id": "nine",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 9,
+      "text": {
+        "en": "Nine",
+        "ms": "sembilan",
+        "zh": "九",
+        "pinyin": "jiǔ"
+      }
+    },
+    {
+      "id": "ten",
+      "category": "counting",
+      "art": "dot",
+      "quantity": 10,
+      "text": {
+        "en": "Ten",
+        "ms": "sepuluh",
+        "zh": "十",
+        "pinyin": "shí"
+      }
+    }
+  ]
+}

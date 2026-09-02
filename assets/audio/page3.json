@@ -1,0 +1,42 @@
+{
+ "line": "蚱蜢没有食物。",
+ "totalMs": 1287,
+ "marks": [
+  {
+   "char": "蚱",
+   "charIndex": 0,
+   "startMs": 0,
+   "endMs": 266
+  },
+  {
+   "char": "蜢",
+   "charIndex": 1,
+   "startMs": 266,
+   "endMs": 509
+  },
+  {
+   "char": "没",
+   "charIndex": 2,
+   "startMs": 509,
+   "endMs": 742
+  },
+  {
+   "char": "有",
+   "charIndex": 3,
+   "startMs": 742,
+   "endMs": 893
+  },
+  {
+   "char": "食",
+   "charIndex": 4,
+   "startMs": 893,
+   "endMs": 1171
+  },
+  {
+   "char": "物",
+   "charIndex": 5,
+   "startMs": 1171,
+   "endMs": 1287
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "line": "蚂蚁分给它吃。现在它们一起唱歌。",
+ "totalMs": 3522,
+ "marks": [
+  {
+   "char": "蚂",
+   "charIndex": 0,
+   "startMs": 0,
+   "endMs": 294
+  },
+  {
+   "char": "蚁",
+   "charIndex": 1,
+   "startMs": 294,
+   "endMs": 468
+  },
+  {
+   "char": "分",
+   "charIndex": 2,
+   "startMs": 468,
+   "endMs": 712
+  },
+  {
+   "char": "给",
+   "charIndex": 3,
+   "startMs": 712,
+   "endMs": 886
+  },
+  {
+   "char": "它",
+   "charIndex": 4,
+   "startMs": 886,
+   "endMs": 1177
+  },
+  {
+   "char": "吃",
+   "charIndex": 5,
+   "startMs": 1177,
+   "endMs": 1432
+  },
+  {
+   "char": "现",
+   "charIndex": 7,
+   "startMs": 1432,
+   "endMs": 1989
+  },
+  {
+   "char": "在",
+   "charIndex": 8,
+   "startMs": 1989,
+   "endMs": 2175
+  },
+  {
+   "char": "它",
+   "charIndex": 9,
+   "startMs": 2175,
+   "endMs": 2477
+  },
+  {
+   "char": "们",
+   "charIndex": 10,
+   "startMs": 2477,
+   "endMs": 2581
+  },
+  {
+   "char": "一",
+   "charIndex": 11,
+   "startMs": 2581,
+   "endMs": 2744
+  },
+  {
+   "char": "起",
+   "charIndex": 12,
+   "startMs": 2744,
+   "endMs": 3011
+  },
+  {
+   "char": "唱",
+   "charIndex": 13,
+   "startMs": 3011,
+   "endMs": 3278
+  },
+  {
+   "char": "歌",
+   "charIndex": 14,
+   "startMs": 3278,
+   "endMs": 3522
+  }
+ ]
+}

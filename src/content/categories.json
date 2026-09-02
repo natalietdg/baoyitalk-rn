@@ -1,0 +1,13 @@
+{
+  "categories": [
+    { "id": "all",      "label": "All",      "art": "⭐" },
+    { "id": "animals",  "label": "Animals",  "art": "🐱" },
+    { "id": "food",     "label": "Food",     "art": "🍎" },
+    { "id": "family",   "label": "Family",   "art": "👶" },
+    { "id": "body",     "label": "Body",     "art": "✋" },
+    { "id": "things",   "label": "Things",   "art": "⚽" },
+    { "id": "actions",  "label": "Actions",  "art": "😋" },
+    { "id": "colours",  "label": "Colours",  "art": "swatch:red" },
+    { "id": "counting", "label": "Counting", "art": "🔢" }
+  ]
+}

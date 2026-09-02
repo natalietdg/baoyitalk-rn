@@ -1,0 +1,604 @@
+{
+  "sentences": [
+    {
+      "id": "cat-sleeping",
+      "text": {
+        "en": "The cat is sleeping.",
+        "ms": "Kucing tidur.",
+        "zh": "猫在睡觉。",
+        "pinyin": "māo zài shuìjiào."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🐱"
+        ],
+        "accent": "zzz"
+      }
+    },
+    {
+      "id": "dog-running",
+      "text": {
+        "en": "The dog is running.",
+        "ms": "Anjing berlari.",
+        "zh": "狗狗在跑。",
+        "pinyin": "gǒugou zài pǎo."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🐶"
+        ],
+        "accent": "motion"
+      }
+    },
+    {
+      "id": "bird-flying",
+      "text": {
+        "en": "The bird is flying.",
+        "ms": "Burung terbang.",
+        "zh": "鸟在飞。",
+        "pinyin": "niǎo zài fēi."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🐦"
+        ],
+        "accent": "sparkle"
+      }
+    },
+    {
+      "id": "fish-swimming",
+      "text": {
+        "en": "The fish is swimming.",
+        "ms": "Ikan berenang.",
+        "zh": "鱼在游泳。",
+        "pinyin": "yú zài yóuyǒng."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🐟"
+        ],
+        "accent": "waves"
+      }
+    },
+    {
+      "id": "cow-eating",
+      "text": {
+        "en": "The cow is eating.",
+        "ms": "Lembu makan.",
+        "zh": "牛在吃草。",
+        "pinyin": "niú zài chī cǎo."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🐮"
+        ]
+      }
+    },
+    {
+      "id": "monkey-jumping",
+      "text": {
+        "en": "The monkey is jumping!",
+        "ms": "Monyet melompat!",
+        "zh": "猴子在跳！",
+        "pinyin": "hóuzi zài tiào!"
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🐵"
+        ],
+        "accent": "motion"
+      }
+    },
+    {
+      "id": "baby-laughing",
+      "text": {
+        "en": "The baby is laughing!",
+        "ms": "Bayi ketawa!",
+        "zh": "宝宝在笑！",
+        "pinyin": "bǎobao zài xiào!"
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "👶"
+        ],
+        "accent": "heart"
+      }
+    },
+    {
+      "id": "rabbit-hopping",
+      "text": {
+        "en": "The rabbit is hopping.",
+        "ms": "Arnab melompat.",
+        "zh": "兔子在跳。",
+        "pinyin": "tùzi zài tiào."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🐰"
+        ],
+        "accent": "steps"
+      }
+    },
+    {
+      "id": "want-milk",
+      "text": {
+        "en": "I want milk.",
+        "ms": "Saya nak susu.",
+        "zh": "我要喝牛奶。",
+        "pinyin": "wǒ yào hē niúnǎi."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "👶",
+          "🥛"
+        ],
+        "accent": "heart"
+      }
+    },
+    {
+      "id": "want-rice",
+      "text": {
+        "en": "I want rice.",
+        "ms": "Saya nak nasi.",
+        "zh": "我要吃饭。",
+        "pinyin": "wǒ yào chī fàn."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "👶",
+          "🍚"
+        ],
+        "accent": "heart"
+      }
+    },
+    {
+      "id": "want-banana",
+      "text": {
+        "en": "I want a banana.",
+        "ms": "Saya nak pisang.",
+        "zh": "我要吃香蕉。",
+        "pinyin": "wǒ yào chī xiāngjiāo."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "👶",
+          "🍌"
+        ],
+        "accent": "heart"
+      }
+    },
+    {
+      "id": "want-water",
+      "text": {
+        "en": "I want water.",
+        "ms": "Saya nak air.",
+        "zh": "我要喝水。",
+        "pinyin": "wǒ yào hē shuǐ."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "👶",
+          "💧"
+        ],
+        "accent": "heart"
+      }
+    },
+    {
+      "id": "baby-eating-apple",
+      "text": {
+        "en": "Baby is eating an apple.",
+        "ms": "Bayi makan epal.",
+        "zh": "宝宝在吃苹果。",
+        "pinyin": "bǎobao zài chī píngguǒ."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "👶",
+          "🍎"
+        ]
+      }
+    },
+    {
+      "id": "mama-reading",
+      "text": {
+        "en": "Mama is reading a book.",
+        "ms": "Mama baca buku.",
+        "zh": "妈妈在看书。",
+        "pinyin": "māma zài kànshū."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "👩",
+          "📕"
+        ]
+      }
+    },
+    {
+      "id": "where-mama",
+      "text": {
+        "en": "Where is mama?",
+        "ms": "Mana mama?",
+        "zh": "妈妈在哪里？",
+        "pinyin": "māma zài nǎlǐ?"
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "👩"
+        ],
+        "accent": "question"
+      }
+    },
+    {
+      "id": "where-papa",
+      "text": {
+        "en": "Where is papa?",
+        "ms": "Mana ayah?",
+        "zh": "爸爸在哪里？",
+        "pinyin": "bàba zài nǎlǐ?"
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "👨"
+        ],
+        "accent": "question"
+      }
+    },
+    {
+      "id": "where-ball",
+      "text": {
+        "en": "Where is the ball?",
+        "ms": "Mana bola?",
+        "zh": "球在哪里？",
+        "pinyin": "qiú zài nǎlǐ?"
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "⚽"
+        ],
+        "accent": "question"
+      }
+    },
+    {
+      "id": "where-shoe",
+      "text": {
+        "en": "Where is my shoe?",
+        "ms": "Mana kasut saya?",
+        "zh": "我的鞋在哪里？",
+        "pinyin": "wǒ de xié zài nǎlǐ?"
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "👞"
+        ],
+        "accent": "question"
+      }
+    },
+    {
+      "id": "car-is-big",
+      "text": {
+        "en": "The car is big!",
+        "ms": "Kereta besar!",
+        "zh": "车车好大！",
+        "pinyin": "chēche hǎo dà!"
+      },
+      "art": {
+        "layout": "comparison",
+        "arts": [
+          "🚗",
+          "🚗"
+        ]
+      }
+    },
+    {
+      "id": "ball-is-big",
+      "text": {
+        "en": "The ball is big!",
+        "ms": "Bola besar!",
+        "zh": "球好大！",
+        "pinyin": "qiú hǎo dà!"
+      },
+      "art": {
+        "layout": "comparison",
+        "arts": [
+          "⚽",
+          "⚽"
+        ]
+      }
+    },
+    {
+      "id": "elephant-is-big",
+      "text": {
+        "en": "The elephant is big!",
+        "ms": "Gajah besar!",
+        "zh": "大象好大！",
+        "pinyin": "dàxiàng hǎo dà!"
+      },
+      "art": {
+        "layout": "comparison",
+        "arts": [
+          "🐘",
+          "🐘"
+        ]
+      }
+    },
+    {
+      "id": "wash-hands",
+      "text": {
+        "en": "Wash your hands.",
+        "ms": "Basuh tangan.",
+        "zh": "洗洗手。",
+        "pinyin": "xǐ xǐ shǒu."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "✋"
+        ],
+        "accent": "splash"
+      }
+    },
+    {
+      "id": "close-eyes",
+      "text": {
+        "en": "Close your eyes.",
+        "ms": "Tutup mata.",
+        "zh": "眼睛闭起来。",
+        "pinyin": "yǎnjing bì qǐlái."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "😴"
+        ],
+        "accent": "zzz"
+      }
+    },
+    {
+      "id": "look-my-nose",
+      "text": {
+        "en": "Look at my nose!",
+        "ms": "Tengok hidung saya!",
+        "zh": "看我的鼻子！",
+        "pinyin": "kàn wǒ de bízi!"
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "👃"
+        ],
+        "accent": "exclaim"
+      }
+    },
+    {
+      "id": "brush-teeth",
+      "text": {
+        "en": "Brush your teeth.",
+        "ms": "Sikat gigi.",
+        "zh": "刷刷牙。",
+        "pinyin": "shuā shuā yá."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🦷"
+        ],
+        "accent": "splash"
+      }
+    },
+    {
+      "id": "put-on-shoes",
+      "text": {
+        "en": "Put on your shoes.",
+        "ms": "Pakai kasut.",
+        "zh": "穿鞋子。",
+        "pinyin": "chuān xiézi."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "👞"
+        ]
+      }
+    },
+    {
+      "id": "time-to-sleep",
+      "text": {
+        "en": "Time to sleep.",
+        "ms": "Masa tidur.",
+        "zh": "睡觉时间到了。",
+        "pinyin": "shuìjiào shíjiān dào le."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "🛏️",
+          "🌛"
+        ],
+        "accent": "zzz"
+      }
+    },
+    {
+      "id": "open-the-door",
+      "text": {
+        "en": "Open the door.",
+        "ms": "Buka pintu.",
+        "zh": "开门。",
+        "pinyin": "kāi mén."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🚪"
+        ]
+      }
+    },
+    {
+      "id": "sit-on-the-chair",
+      "text": {
+        "en": "Sit on the chair.",
+        "ms": "Duduk atas kerusi.",
+        "zh": "坐在椅子上。",
+        "pinyin": "zuò zài yǐzi shàng."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🪑"
+        ]
+      }
+    },
+    {
+      "id": "two-hands",
+      "text": {
+        "en": "I have two hands.",
+        "ms": "Saya ada dua tangan.",
+        "zh": "我有两只手。",
+        "pinyin": "wǒ yǒu liǎng zhī shǒu."
+      },
+      "art": {
+        "layout": "repeated",
+        "arts": [
+          "✋"
+        ],
+        "count": 2,
+        "accent": "counting"
+      }
+    },
+    {
+      "id": "two-eyes-one-nose",
+      "text": {
+        "en": "Two eyes, one nose.",
+        "ms": "Dua mata, satu hidung.",
+        "zh": "两只眼睛，一个鼻子。",
+        "pinyin": "liǎng zhī yǎnjing, yí gè bízi."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "👀",
+          "👃"
+        ],
+        "accent": "counting"
+      }
+    },
+    {
+      "id": "three-little-sheep",
+      "text": {
+        "en": "Three little sheep.",
+        "ms": "Tiga anak biri-biri.",
+        "zh": "三只小绵羊。",
+        "pinyin": "sān zhī xiǎo miányáng."
+      },
+      "art": {
+        "layout": "repeated",
+        "arts": [
+          "🐑"
+        ],
+        "count": 3,
+        "accent": "counting"
+      }
+    },
+    {
+      "id": "want-one-apple",
+      "text": {
+        "en": "I want one apple.",
+        "ms": "Saya mahu satu epal.",
+        "zh": "我要一个苹果。",
+        "pinyin": "wǒ yào yí gè píngguǒ."
+      },
+      "art": {
+        "layout": "single",
+        "arts": [
+          "🍎"
+        ],
+        "accent": "heart"
+      }
+    },
+    {
+      "id": "four-cats-sleeping",
+      "text": {
+        "en": "Four cats are sleeping.",
+        "ms": "Empat kucing tidur.",
+        "zh": "四只猫在睡觉。",
+        "pinyin": "sì zhī māo zài shuìjiào."
+      },
+      "art": {
+        "layout": "repeated",
+        "arts": [
+          "🐱"
+        ],
+        "count": 4,
+        "accent": "zzz"
+      }
+    },
+    {
+      "id": "count-with-me",
+      "text": {
+        "en": "Count with me: one, two, three.",
+        "ms": "Kira dengan saya: satu, dua, tiga.",
+        "zh": "跟我数：一、二、三。",
+        "pinyin": "gēn wǒ shǔ: yī, èr, sān."
+      },
+      "art": {
+        "layout": "repeated",
+        "arts": [
+          "dot"
+        ],
+        "count": 3,
+        "accent": "counting"
+      }
+    },
+    {
+      "id": "five-fingers",
+      "text": {
+        "en": "Five fingers, one hand.",
+        "ms": "Lima jari, satu tangan.",
+        "zh": "五根手指，一只手。",
+        "pinyin": "wǔ gēn shǒuzhǐ, yì zhī shǒu."
+      },
+      "art": {
+        "layout": "pair",
+        "arts": [
+          "✋",
+          "dot"
+        ],
+        "accent": "counting"
+      }
+    },
+    {
+      "id": "two-ducks",
+      "text": {
+        "en": "Two ducks in the water.",
+        "ms": "Dua itik dalam air.",
+        "zh": "两只鸭在水里。",
+        "pinyin": "liǎng zhī yā zài shuǐ lǐ."
+      },
+      "art": {
+        "layout": "repeated",
+        "arts": [
+          "🦆"
+        ],
+        "count": 2,
+        "accent": "waves"
+      }
+    }
+  ]
+}
